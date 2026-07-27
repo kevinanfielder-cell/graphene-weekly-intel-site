@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Issue 30 · 2026 · Graphene Weekly Intel</title><meta name="description" content="Weekly intelligence on graphene companies, applications, competing materials, patents and capital.">
-<meta property="og:image" content="/graphene-weekly-intel-site/og.png"><link rel="icon" href="/graphene-weekly-intel-site/favicon.svg"><link rel="stylesheet" href="/graphene-weekly-intel-site/assets/styles.css?v=4beb87471690"></head>
+<meta property="og:image" content="/graphene-weekly-intel-site/og.png"><link rel="icon" href="/graphene-weekly-intel-site/favicon.svg"><link rel="stylesheet" href="/graphene-weekly-intel-site/assets/styles.css?v=cc4ef4d32aa8"></head>
 <body><div class="site-shell">
 <header class="topbar">
   <a class="brand" href="/graphene-weekly-intel-site/"><span class="brand-mark">G</span><span><strong>GRAPHENE</strong><small>WEEKLY INTEL</small></span></a>
@@ -78,9 +78,9 @@
       
       <p class="summary">A UC San Diego-led team combined an insect olfactory receptor with a liquid-gated graphene field-effect transistor. The large device-screening dataset and receptor stability make the work notable for moving bioelectronic sensing toward repeatable device fabrication.</p><div class="story-tags"><button data-filter-vertical="Sensors">Sensors</button><button data-filter-vertical="Semiconductor applications">Semiconductor applications</button><button data-filter-vertical="Biomedical">Biomedical</button><span>Research</span></div></div>
       <aside><span>SOURCE</span><strong>Graphene-Info</strong><span>CONFIDENCE</span><div class="confidence-meter"><i style="width:94%"></i></div><small>94%</small></aside>
-    </article></div></section></main>
+    </article><div id="story-empty" class="empty-state" hidden>No signals match those filters. Clear a filter or broaden the search.</div></div></section></main>
 <footer class="site-footer"><div><span class="eyebrow">GRAPHENE WEEKLY INTEL</span><p>Evidence-led materials intelligence, updated every Monday.</p></div>
 <div class="footer-links"><a href="/graphene-weekly-intel-site/data/current-report.json">Article data</a><a href="/graphene-weekly-intel-site/data/companies.json">Company data</a><a href="https://www.graphene-info.com/">Graphene-Info</a></div></footer></div><script>
-const q=document.querySelector("#search"),v=document.querySelector("#vertical"),k=document.querySelector("#kind"),m=document.querySelector("#material"),rows=[...document.querySelectorAll("[data-story]")],count=document.querySelector("#result-count");
-function filter(){let n=0;rows.forEach(r=>{const show=(!q.value||r.dataset.search.includes(q.value.toLowerCase()))&&(!v.value||r.dataset.verticals.split("|").includes(v.value))&&(!k.value||r.dataset.kind===k.value)&&(!m.value||r.dataset.material===m.value);r.hidden=!show;if(show)n++});count.textContent=n+" results"}[q,v,k,m].forEach(x=>x&&x.addEventListener(x.tagName==="INPUT"?"input":"change",filter));document.querySelectorAll("[data-filter-vertical]").forEach(b=>b.addEventListener("click",()=>{v.value=b.dataset.filterVertical;filter();scrollTo({top:document.querySelector(".filter-bar").offsetTop-20,behavior:"smooth"})}));
+const q=document.querySelector("#search"),v=document.querySelector("#vertical"),k=document.querySelector("#kind"),m=document.querySelector("#material"),rows=[...document.querySelectorAll("[data-story]")],count=document.querySelector("#result-count"),empty=document.querySelector("#story-empty");
+function filter(){const needle=q.value.trim().toLowerCase();let n=0;rows.forEach(r=>{const show=(!needle||r.dataset.search.includes(needle))&&(!v.value||r.dataset.verticals.split("|").includes(v.value))&&(!k.value||r.dataset.kind===k.value)&&(!m.value||r.dataset.material===m.value);r.hidden=!show;if(show)n++});count.textContent=n+" results";empty.hidden=n!==0}[q,v,k,m].forEach(x=>x&&x.addEventListener(x.tagName==="INPUT"?"input":"change",filter));document.querySelectorAll("[data-filter-vertical]").forEach(b=>b.addEventListener("click",()=>{v.value=b.dataset.filterVertical;filter();scrollTo({top:document.querySelector(".filter-bar").offsetTop-20,behavior:"smooth"})}));
 </script></body></html>

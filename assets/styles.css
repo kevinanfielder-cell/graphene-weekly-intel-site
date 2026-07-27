@@ -399,6 +399,33 @@ select {
   color: #8c9898;
 }
 
+.filter-summary {
+  align-items: center;
+  color: #637174;
+  display: flex;
+  font-size: 10px;
+  justify-content: space-between;
+  letter-spacing: 0.1em;
+  margin: -34px auto 44px;
+  max-width: 1380px;
+  text-transform: uppercase;
+}
+
+.filter-summary button {
+  background: transparent;
+  border: 0;
+  color: #087c7b;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  padding: 8px 0;
+  text-transform: uppercase;
+}
+
+.filter-summary button:hover {
+  color: var(--ink);
+}
+
 .story-list {
   margin: 0 auto;
   max-width: 1380px;
@@ -979,6 +1006,11 @@ select {
   .filter-bar,
   .atlas-filters {
     grid-template-columns: 1fr;
+  }
+
+  .filter-summary {
+    align-items: flex-start;
+    gap: 12px;
   }
 
   .search-field {
