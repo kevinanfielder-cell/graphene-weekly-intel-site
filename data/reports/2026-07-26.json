@@ -4,13 +4,46 @@
     "end": "2026-07-26",
     "label": "31 · 2026"
   },
-  "generated_at": "2026-07-27T10:00:25-04:00",
-  "briefing": "This issue tracks 6 verified signals across Composites and coatings, Defense and dual-use, Semiconductor applications. Activity spans 4 named companies, with commercial announcements assessed alongside academic and competing-material evidence. Lower-confidence or promotional claims remain visible and are explicitly flagged for follow-up.",
+  "generated_at": "2026-07-27T10:12:23-04:00",
+  "briefing": "This issue tracks 6 verified signals across Composites and coatings, Semiconductor applications, Other — Advanced manufacturing. Activity spans 3 named companies, with commercial announcements assessed alongside academic and competing-material evidence. Lower-confidence or promotional claims remain visible and are explicitly flagged for follow-up.",
   "sources": [
+    "American Chemical Society (ACS)",
+    "Dr. Yashwant Research Labs Pvt. Ltd.",
+    "Emerald",
     "Google News",
-    "Graphene.tv"
+    "Graphene.tv",
+    "IOP Publishing",
+    "Springer Science and Business Media LLC",
+    "Wiley"
   ],
   "articles": [
+    {
+      "canonical_url": "https://doi.org/10.1021/acsphotonics.6c01030",
+      "source_urls": [
+        "https://doi.org/10.1021/acsphotonics.6c01030"
+      ],
+      "source": "American Chemical Society (ACS)",
+      "title_original": "Optical Spin Defect Pairs in Cubic Boron Nitride",
+      "title_en": "Optical Spin Defect Pairs in Cubic Boron Nitride",
+      "excerpt_original": "",
+      "summary_en": "Researchers investigate optical spin defect pairs in cubic boron nitride, providing new insights into their quantum and optical properties. This academic study explores potential applications in advanced semiconductor and quantum sensing technologies.",
+      "language": "en",
+      "published_at": "2026-07-26",
+      "article_type": "Academic research",
+      "material_type": "non-graphene",
+      "verticals": [
+        "Semiconductor applications",
+        "Sensors"
+      ],
+      "themes": [
+        "Research"
+      ],
+      "companies": [],
+      "confidence": 0.9,
+      "duplicate_cluster_id": "cl_304730424a8ddee104",
+      "featured": false,
+      "id": "art_304730424a8ddee104"
+    },
     {
       "canonical_url": "http://www.graphene.tv/20260726157042",
       "source_urls": [
@@ -18,16 +51,16 @@
       ],
       "source": "Graphene.tv",
       "title_original": "金陵七月，光耀四方 | CIOP 2026在南京开幕",
-      "title_en": "CIOP 2026 Opens in Nanjing Featuring Research on Graphene-Like Optical Lattices",
+      "title_en": "CIOP 2026 Opens in Nanjing Featuring Graphene-Related Quantum Research",
       "excerpt_original": "山西大学张靖教授的报告题为“Quantized vortex in an atomic Bose-Einstein condensate at Dirac point with emergent spin-orbit coupling”。张靖教授团队基于类石墨烯光学蜂窝晶格中的原子玻色-爱因斯坦凝聚体，直接观测到狄拉克…",
-      "summary_en": "The CIOP 2026 conference has officially opened in Nanjing, featuring prominent academic presentations. Among the highlights, Professor Jing Zhang's team from Shanxi University reported on quantized vortices in atomic Bose-Einstein condensates at Dirac points using graphene-like optical honeycomb lattices.",
+      "summary_en": "The CIOP 2026 conference has officially opened in Nanjing, featuring prominent academic presentations including research from Shanxi University on quantized vortices in atomic Bose-Einstein condensates within a graphene-like optical honeycomb lattice. This event highlights ongoing advancements in quantum optics and synthetic materials research.",
       "language": "zh",
       "published_at": "2026-07-26",
       "article_type": "Industry news",
       "material_type": "graphene",
       "verticals": [
-        "Semiconductor applications",
-        "Sensors"
+        "Sensors",
+        "Other — Quantum optics and atomic physics"
       ],
       "themes": [
         "Research"
@@ -39,33 +72,6 @@
       "id": "art_bcd4577f7acd023b6d"
     },
     {
-      "canonical_url": "http://www.graphene.tv/20260726157024",
-      "source_urls": [
-        "http://www.graphene.tv/20260726157024"
-      ],
-      "source": "Graphene.tv",
-      "title_original": "氨基修饰石墨烯搭配铜颗粒增强树脂！减少石墨烯团聚降低传热阻力，碳纤维复合树脂力学、散热两项性能同步大幅提升",
-      "title_en": "Amino-Modified Graphene and Copper Particles Enhance Resin Composites for Superior Mechanical and Thermal Performance",
-      "excerpt_original": "实验结果表明，引入极性基团能够有效改善Gr与PPBESK树脂基体之间的界面相互作用和结合强度，从而显著提高复合材料的整体性能。0.2-NH₂优化复合材料的弯曲强度、压缩强度、拉伸强度和层间剪切强度（ILSS）以及面外热导率（λ）分别达到1516 MPa、890 MPa、1663 MPa、65 MPa和1.884 W/(…",
-      "summary_en": "Researchers have developed a carbon fiber composite resin enhanced with amino-modified graphene and copper particles to mitigate graphene agglomeration and reduce thermal resistance. Experimental results demonstrate significant simultaneous improvements in both mechanical strength, such as flexural and tensile strength, and out-of-plane thermal conductivity.",
-      "language": "zh",
-      "published_at": "2026-07-26",
-      "article_type": "Industry news",
-      "material_type": "graphene",
-      "verticals": [
-        "Thermal management",
-        "Composites and coatings"
-      ],
-      "themes": [
-        "Research"
-      ],
-      "companies": [],
-      "confidence": 0.85,
-      "duplicate_cluster_id": "cl_fa943355dfe68a81c2",
-      "featured": false,
-      "id": "art_fa943355dfe68a81c2"
-    },
-    {
       "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzBqLUwzVExxdHdlLUZZQk0tSUxEQ3FvYlJPclZGZ0E1NkF5YmExY2pBdEVDY1RISUFpbUtKMkJzU2NJNDNGRTNMNjBQa001SWVfaXdhZ0RwcnRuaTUtcVBHdlZHSmdBdGVPWVVCamdPVGFHTW9qYTlPZUctSDA2dklud3J6eEcxYjMtMXV3WGI3QjdOSEdFaHZqQUlvYUt3VEs1NXA2TQ?oc=5",
       "source_urls": [
         "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzBqLUwzVExxdHdlLUZZQk0tSUxEQ3FvYlJPclZGZ0E1NkF5YmExY2pBdEVDY1RISUFpbUtKMkJzU2NJNDNGRTNMNjBQa001SWVfaXdhZ0RwcnRuaTUtcVBHdlZHSmdBdGVPWVVCamdPVGFHTW9qYTlPZUctSDA2dklud3J6eEcxYjMtMXV3WGI3QjdOSEdFaHZqQUlvYUt3VEs1NXA2TQ?oc=5"
@@ -74,13 +80,14 @@
       "title_original": "Lyten's graphene-enhanced filament to be integrated into Modovolo's transportable 3D printing platform - Graphene-Info",
       "title_en": "Lyten's Graphene-Enhanced Filament Integrated into Modovolo's 3D Printing Platform",
       "excerpt_original": "Lyten's graphene-enhanced filament to be integrated into Modovolo's transportable 3D printing platform Graphene-Info",
-      "summary_en": "Lyten has announced a partnership with Modovolo to integrate its graphene-enhanced filament into Modovolo's transportable 3D printing platform. This collaboration aims to leverage the enhanced mechanical and thermal properties of graphene-based materials for advanced additive manufacturing applications. The integration highlights ongoing commercial efforts to introduce functionalized nanomaterials into portable industrial hardware.",
+      "summary_en": "Lyten has announced that its graphene-enhanced filament will be integrated into Modovolo's transportable 3D printing platform. This partnership aims to leverage advanced material properties to enhance the durability and structural performance of 3D-printed components. The collaboration highlights ongoing commercial integration of graphene materials into manufacturing applications.",
       "language": "en",
       "published_at": "2026-07-26",
       "article_type": "Industry news",
       "material_type": "graphene",
       "verticals": [
-        "Composites and coatings"
+        "Composites and coatings",
+        "Other — Advanced manufacturing"
       ],
       "themes": [
         "Partnerships",
@@ -95,31 +102,59 @@
       "id": "art_7e1f1c0404becf5ff0"
     },
     {
-      "canonical_url": "http://www.graphene.tv/20260726157016",
+      "canonical_url": "http://www.graphene.tv/20260726157024",
       "source_urls": [
-        "http://www.graphene.tv/20260726157016"
+        "http://www.graphene.tv/20260726157024"
       ],
       "source": "Graphene.tv",
-      "title_original": "锚定“大抓项目”鲜明导向 党建联建赋能重大项目“加速度”",
-      "title_en": "Party-Building Alliance Accelerates Key Projects Including Yangtze River Delta Graphene Center",
-      "excerpt_original": "首批纳入试点的20个项目，大多为当前全市范围推进难度大、投资金额高、涉及主体多的重大项目，既包括金七门核电项目、清溪水库项目等重大基础工程设施项目，也包括智能汽车产业园项目、长三角石墨烯产业联合创新中心项目、中海石油大榭石化五期项目等事关制造业转型升级的产业项目。",
-      "summary_en": "A pilot initiative in China is leveraging party-building joint construction to accelerate 20 major regional projects across infrastructure and manufacturing. Key industrial projects in the cohort include the Yangtze River Delta Graphene Industry Joint Innovation Center alongside automotive and petrochemical developments.",
+      "title_original": "氨基修饰石墨烯搭配铜颗粒增强树脂！减少石墨烯团聚降低传热阻力，碳纤维复合树脂力学、散热两项性能同步大幅提升",
+      "title_en": "Amino-Modified Graphene and Copper Particles Enhance Resin Composites for Thermal and Mechanical Performance",
+      "excerpt_original": "实验结果表明，引入极性基团能够有效改善Gr与PPBESK树脂基体之间的界面相互作用和结合强度，从而显著提高复合材料的整体性能。0.2-NH₂优化复合材料的弯曲强度、压缩强度、拉伸强度和层间剪切强度（ILSS）以及面外热导率（λ）分别达到1516 MPa、890 MPa、1663 MPa、65 MPa和1.884 W/(…",
+      "summary_en": "Researchers incorporated amino-functionalized graphene and copper particles into a resin matrix to mitigate graphene agglomeration and reduce thermal resistance. Experimental results showed simultaneous improvements in mechanical properties, including flexural, tensile, and interlaminar shear strength, alongside enhanced out-of-plane thermal conductivity.",
+      "language": "zh",
+      "published_at": "2026-07-26",
+      "article_type": "Academic research",
+      "material_type": "graphene",
+      "verticals": [
+        "Thermal management",
+        "Composites and coatings"
+      ],
+      "themes": [
+        "Research"
+      ],
+      "companies": [],
+      "confidence": 0.75,
+      "duplicate_cluster_id": "cl_fa943355dfe68a81c2",
+      "featured": false,
+      "id": "art_fa943355dfe68a81c2"
+    },
+    {
+      "canonical_url": "http://www.graphene.tv/20260726157038",
+      "source_urls": [
+        "http://www.graphene.tv/20260726157038"
+      ],
+      "source": "Graphene.tv",
+      "title_original": "我市深耕光储赛道集聚产业动能",
+      "title_en": "Chinese City Partners with AECC Graphene Institute for Solar and Energy Storage Innovations",
+      "excerpt_original": "积极对接高端科研资源，与中国航发石墨烯研究院共建产业研究院，开展石墨烯复合铜箔等前沿领域合作，持续推动产业技术迭代升级，为光储产业高质量发展提供坚实科技支撑。",
+      "summary_en": "A local municipal government is partnering with the AECC Graphene Research Institute to jointly establish a new industrial research facility. The collaboration focuses on advanced material applications such as graphene-composite copper foil to advance technological developments in the solar and energy storage sectors.",
       "language": "zh",
       "published_at": "2026-07-26",
       "article_type": "Industry news",
       "material_type": "graphene",
       "verticals": [
-        "Other — Innovation centers and regional manufacturing"
+        "Energy storage",
+        "Composites and coatings"
       ],
       "themes": [
-        "Facilities",
-        "Partnerships"
+        "Partnerships",
+        "Research"
       ],
       "companies": [],
-      "confidence": 0.55,
-      "duplicate_cluster_id": "cl_98367b7a147c03a2e7",
+      "confidence": 0.7,
+      "duplicate_cluster_id": "cl_e521cea70e88390901",
       "featured": false,
-      "id": "art_98367b7a147c03a2e7"
+      "id": "art_e521cea70e88390901"
     },
     {
       "canonical_url": "http://www.graphene.tv/20260725156999",
@@ -128,9 +163,9 @@
       ],
       "source": "Graphene.tv",
       "title_original": "ACS Sensors：用于高灵敏度气体检测与光电恢复的钯（Pd）功能化石墨烯栅极GaN HEMT",
-      "title_en": "ACS Sensors: Palladium-Functionalized Graphene Gate GaN HEMT for High-Sensitivity Gas Detection and Optoelectronic Recovery",
+      "title_en": "ACS Sensors: Palladium-Functionalized Graphene-Gate GaN HEMT for High-Sensitivity Gas Detection and Optoelectronic Recovery",
       "excerpt_original": "本工作报道了一种混合维异质结构，该结构将钯（Pd）纳米岛和石墨烯栅极集成在AlGaN/GaN高电子迁移率晶体管（HEMT）上。这种架构有效规避了屏蔽效应，使得表面吸附过程能够高效调控底层的二维电子气。实验表明，可见光照射可诱导NO2快速解吸，从而实现室温下的器件运行，且恢复时间仅需约7秒。",
-      "summary_en": "Researchers have developed a hybrid-dimensional heterostructure integrating palladium nanoislands and a graphene gate on an AlGaN/GaN high electron mobility transistor (HEMT) for advanced gas sensing. The architecture avoids screening effects to efficiently modulate the underlying two-dimensional electron gas for room-temperature NO2 detection. Furthermore, visible light illumination induces rapid desorption, achieving a recovery time of approximately seven seconds.",
+      "summary_en": "Researchers have developed a hybrid dimensional heterostructure integrating palladium nanoislands and a graphene gate onto an AlGaN/GaN high electron mobility transistor. The architecture avoids screening effects to efficiently modulate the underlying two-dimensional electron gas for gas sensing. Visible light irradiation induces rapid nitrogen dioxide desorption, enabling room-temperature operation with a recovery time of approximately seven seconds.",
       "language": "zh",
       "published_at": "2026-07-25",
       "article_type": "Academic research",
@@ -145,8 +180,142 @@
       "companies": [],
       "confidence": 0.95,
       "duplicate_cluster_id": "cl_e8a78362f8a9b6bfab",
-      "featured": false,
+      "featured": true,
       "id": "art_e8a78362f8a9b6bfab"
+    },
+    {
+      "canonical_url": "https://doi.org/10.1002/smll.74773",
+      "source_urls": [
+        "https://doi.org/10.1002/smll.74773"
+      ],
+      "source": "Wiley",
+      "title_original": "Tailoring Cross‐Scale Structures in Dual‐Transition Metal MXene Aerogels for Robust Microwave Absorption",
+      "title_en": "Tailoring Cross-Scale Structures in Dual-Transition Metal MXene Aerogels for Robust Microwave Absorption",
+      "excerpt_original": "ABSTRACT Achieving broadband microwave absorption while maintaining a thin profile is a challenge due to the conflict of inherent impedance with attenuation. Herein, dual‐transition metal /rGO/ aerogels featuring cross‐scale structural tailoring, ranging from the nanoscale to the millimeter scale, were fabricated via freeze‐drying. At the nanoscale, the solid‐solution incorporation of Nb atoms introduces additional polarization loss, thereby enhancing the intrinsic attenuation capacity of the material. At the microscopic level, by leveraging the dimensional disparity between large‐sheet rGO and small‐sheet MXene, the porosity of the aerogel walls was regulated. Therefore, the conductive networks and abundant heterointerfaces were established, enabling the TNrF‐1 to achieve an effective absorption bandwidth (EAB) of 6.24 GHz at a thickness of 2.0 mm, accompanied by a minimum reflection loss of dB. Macroscopically, the aerogels were constructed into a stepped gradient structure whose parameters were optimized by a genetic algorithm. The optimized architecture reconciles the conflict between impedance and attenuation, delivering an exceptional EAB of 14.45 GHz with superior angular robustness. This cross‐scale paradigm paves a feasible avenue for developing advanced electromagnetic functional materials.",
+      "summary_en": "Researchers have fabricated dual-transition metal /rGO/ aerogels featuring cross-scale structural tailoring for enhanced broadband microwave absorption. By integrating Nb atoms at the nanoscale and leveraging dimensional disparities between large-sheet rGO and small-sheet MXene, the aerogels achieve an effective absorption bandwidth of 14.45 GHz. This study presents a scalable paradigm for developing advanced electromagnetic functional materials.",
+      "language": "en",
+      "published_at": "2026-07-25",
+      "article_type": "Academic research",
+      "material_type": "non-graphene",
+      "verticals": [
+        "Defense and dual-use",
+        "Thermal management"
+      ],
+      "themes": [
+        "Research"
+      ],
+      "companies": [],
+      "confidence": 0.95,
+      "duplicate_cluster_id": "cl_b10e217d02b2dc8bee",
+      "featured": false,
+      "id": "art_b10e217d02b2dc8bee"
+    },
+    {
+      "canonical_url": "https://doi.org/10.1002/aenm.71354",
+      "source_urls": [
+        "https://doi.org/10.1002/aenm.71354"
+      ],
+      "source": "Wiley",
+      "title_original": "Dual‐Anion‐Vacancy Engineering in MXene: Unlocking Quantum Confinement, Charge Compensation and Shielding Effects for Ultra‐Stable Mg <sup>2+</sup> /Li <sup>+</sup> Ions Storage",
+      "title_en": "Dual-Anion-Vacancy Engineering in MXene for Advanced Mg2+/Li+ Hybrid Batteries",
+      "excerpt_original": "ABSTRACT Designing cathode materials that can synergistically store ions with significantly different charge densities and ionic radii poses a critical challenge in the ongoing development of Mg 2+ /Li + hybrid batteries (MLHBs). MXene‐based materials with vacancy defects offer promise, yet conventional monovacancy strategies cannot balance capacity and reaction kinetics. Herein, an innovative dual‐anion (Se, O) vacancy engineering strategy is proposed and constructed a quantum dot (QD) Ti 3 C 2 MXene heterostructure (QD@V Se,O ‐Ti 3 C 2 ). Benefiting from (i) the quantum confinement effect induced by QD TiO 2 , which modifies the electronic band structure and improves interfacial charge transfer, (ii) dual‐anion vacancies that establish a complementary charge environment, providing electrostatic shielding to lower Mg 2+ diffusion barriers and facilitate charge compensation, and (iii) in situ formed TiSe 2 layers combined with strong Se─C bonds, which ensure rapid ion/electron transport and maintain structural integrity. The QD@V Se,O ‐Ti 3 C 2 cathode delivers an ultra‐high capacity (705 mAh g −1 at 50 mA g −1 ) and outstanding cycling stability with 70% capacity retention after 2300 cycles at 1000 mA g −1 . The synergy among quantum‐confined, charge compensation and shielding effects, and interfacial electronic structure achieved unprecedented Mg 2+ /Li + co‐adsorption stability and rapid kinetics. This work establishes a new paradigm of QD‐enhanced multi‐anion vacancy engineering for next‐generation multivalent‐ion batteries.",
+      "summary_en": "Researchers propose an innovative dual-anion vacancy engineering strategy combined with a quantum dot MXene heterostructure to improve hybrid battery performance. The resulting cathode material achieves high capacity and exceptional cycling stability by optimizing charge compensation and quantum confinement effects. This study presents a promising approach for developing next-generation multivalent-ion energy storage systems.",
+      "language": "en",
+      "published_at": "2026-07-25",
+      "article_type": "Academic research",
+      "material_type": "non-graphene",
+      "verticals": [
+        "Energy storage"
+      ],
+      "themes": [
+        "Research"
+      ],
+      "companies": [],
+      "confidence": 0.95,
+      "duplicate_cluster_id": "cl_01c1c0e0fdc81c2e54",
+      "featured": false,
+      "id": "art_01c1c0e0fdc81c2e54"
+    },
+    {
+      "canonical_url": "https://doi.org/10.25258/ijddt.16.69s.55",
+      "source_urls": [
+        "https://doi.org/10.25258/ijddt.16.69s.55"
+      ],
+      "source": "Dr. Yashwant Research Labs Pvt. Ltd.",
+      "title_original": "Comparative Investigation of Different MXene Electrodes for Enhanced Resistive Switching Performance in Solution-Processed WO₃ Memristors",
+      "title_en": "Comparative Investigation of MXene Electrodes in Solution-Processed WO₃ Memristors",
+      "excerpt_original": ".",
+      "summary_en": "This academic study investigates the integration of different MXene electrodes to enhance the resistive switching performance of solution-processed tungsten trioxide (WO₃) memristors. The research focuses on optimizing electrode-semiconductor interfaces for advanced electronic and neuromorphic applications. Findings contribute to the broader understanding of nanomaterial-based non-volatile memory devices.",
+      "language": "en",
+      "published_at": "2026-07-25",
+      "article_type": "Academic research",
+      "material_type": "non-graphene",
+      "verticals": [
+        "Semiconductor applications"
+      ],
+      "themes": [
+        "Research"
+      ],
+      "companies": [],
+      "confidence": 0.9,
+      "duplicate_cluster_id": "cl_f664d12773d4a0ac39",
+      "featured": false,
+      "id": "art_f664d12773d4a0ac39"
+    },
+    {
+      "canonical_url": "http://www.graphene.tv/20260725157040",
+      "source_urls": [
+        "http://www.graphene.tv/20260725157040"
+      ],
+      "source": "Graphene.tv",
+      "title_original": "涌金楼丨浙江省委最新部署，事关最重要的两座城市",
+      "title_en": "Zhejiang Provincial Leadership Emphasizes Research at Ningbo Institute of Materials Technology and Engineering",
+      "excerpt_original": "中国科学院宁波材料技术与工程研究所，是基础研究的排头兵。这家扎根宁波20年的“国家队”，是宁波科创版图上最硬的“桩基”。从碳纤维到石墨烯，从海洋新材料到磁性功能器件，它干的都是“从0到1”的底层突破。",
+      "summary_en": "The Zhejiang provincial committee highlighted the strategic role of the Ningbo Institute of Materials Technology and Engineering, focusing on its foundational R&D breakthroughs spanning carbon fibers, graphene, marine new materials, and magnetic functional devices. The report underscores the institute's two-decade history of driving critical technological advancements from inception to application within the region.",
+      "language": "zh",
+      "published_at": "2026-07-25",
+      "article_type": "Industry news",
+      "material_type": "graphene",
+      "verticals": [
+        "Composites and coatings",
+        "Other — Advanced Materials"
+      ],
+      "themes": [
+        "Research"
+      ],
+      "companies": [],
+      "confidence": 0.85,
+      "duplicate_cluster_id": "cl_07e88da0ed96bce9c9",
+      "featured": false,
+      "id": "art_07e88da0ed96bce9c9"
+    },
+    {
+      "canonical_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qWUsyd1Q2NnhFNXdraW1nWGpYRE5lUm5IRzFkcE9oZ3I0RTNDVThZUG0yTWxEV3JQYlZ3MWo2SXVfYlhQZTBlNVV1MUZZNFQ2bHFFakRCT1lsTEMxQzF3MWhwS2doT2RXVFJNSTFkbTUxTlBX?oc=5",
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qWUsyd1Q2NnhFNXdraW1nWGpYRE5lUm5IRzFkcE9oZ3I0RTNDVThZUG0yTWxEV3JQYlZ3MWo2SXVfYlhQZTBlNVV1MUZZNFQ2bHFFakRCT1lsTEMxQzF3MWhwS2doT2RXVFJNSTFkbTUxTlBX?oc=5"
+      ],
+      "source": "Google News",
+      "title_original": "Black Swan Graphene Inc Revenue Breakdown – TSXV:SWAN - TradingView",
+      "title_en": "Black Swan Graphene Inc Revenue Breakdown on TSXV",
+      "excerpt_original": "Black Swan Graphene Inc Revenue Breakdown – TSXV:SWAN TradingView",
+      "summary_en": "This financial overview details the revenue breakdown for Black Swan Graphene Inc, traded on the TSXV under the ticker SWAN. The report provides insight into the company's commercial performance and financial standing within the graphene market.",
+      "language": "en",
+      "published_at": "2026-07-24",
+      "article_type": "Industry news",
+      "material_type": "graphene",
+      "verticals": [
+        "Other — Financials and Market Analysis"
+      ],
+      "themes": [
+        "Commercialization"
+      ],
+      "companies": [
+        "Black Swan Graphene"
+      ],
+      "confidence": 0.9,
+      "duplicate_cluster_id": "cl_35a3a810ef5d7eebea",
+      "featured": false,
+      "id": "art_35a3a810ef5d7eebea"
     },
     {
       "canonical_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFQ4c2c1Z1FFRDZhdkh2N0JkUnE4eHBhNnlqWDlJVkc0em4wQ3gwSWxuN1BCSFVFUUpoQmc5YXZ5dWlrYlM5N1B0aWlTX2FQU1ZrcFlCYlkyZFVuOExQR0RMT1ZHd2piczBBNE53Rm5qT1F5N0h6OTZTaTRCWmZDRWRPRWdKd2s?oc=5",
@@ -155,9 +324,9 @@
       ],
       "source": "Google News",
       "title_original": "China: Scientists achieve data storage using a single electron, via a graphene chip - Interesting Engineering",
-      "title_en": "Chinese Scientists Achieve Single-Electron Data Storage Using a Graphene Chip",
+      "title_en": "Chinese Scientists Achieve Single-Electron Data Storage Using Graphene Chip",
       "excerpt_original": "China: Scientists achieve data storage using a single electron, via a graphene chip Interesting Engineering",
-      "summary_en": "Researchers in China have successfully demonstrated data storage using a single electron on a graphene-based chip. This technical breakthrough highlights the potential of graphene in advanced semiconductor applications and next-generation electronic devices. The development marks a significant step forward in utilizing nanomaterials for ultra-dense and low-power data storage architectures.",
+      "summary_en": "Researchers in China have successfully demonstrated data storage utilizing a single electron on a graphene-based chip. This breakthrough in nanoscale semiconductor applications highlights the potential of graphene in next-generation electronics and ultra-dense memory devices. Further development could pave the way for highly energy-efficient computing architectures.",
       "language": "en",
       "published_at": "2026-07-24",
       "article_type": "Academic research",
@@ -181,15 +350,16 @@
       ],
       "source": "Google News",
       "title_original": "Lyten to supply 3D Graphene filament for Modovolo’s BFP printing platform - VoxelMatters",
-      "title_en": "Lyten to supply 3D Graphene filament for Modovolo’s BFP printing platform",
+      "title_en": "Lyten Supplies 3D Graphene Filament for Modovolo's BFP Printing Platform",
       "excerpt_original": "Lyten to supply 3D Graphene filament for Modovolo’s BFP printing platform VoxelMatters",
-      "summary_en": "Lyten has announced a supply agreement to provide its 3D Graphene filament for Modovolo's BFP printing platform. This partnership aims to integrate advanced graphene materials into manufacturing processes to enhance structural performance. The collaboration highlights ongoing commercial adoption of graphene-enhanced filaments in additive manufacturing applications.",
+      "summary_en": "Lyten has announced an agreement to supply its 3D Graphene filament for integration into Modovolo's BFP printing platform. This partnership aims to leverage graphene-enhanced materials for advanced manufacturing and structural applications. The collaboration highlights ongoing commercial adoption of graphene filaments in specialized printing technologies.",
       "language": "en",
       "published_at": "2026-07-24",
       "article_type": "Industry news",
       "material_type": "graphene",
       "verticals": [
-        "Composites and coatings"
+        "Composites and coatings",
+        "Other — Additive manufacturing"
       ],
       "themes": [
         "Partnerships",
@@ -204,32 +374,59 @@
       "id": "art_3b0ab762217c38be4c"
     },
     {
-      "canonical_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQa050dllQZTZhLVFwXzZfc0wxNWd6Tkw1eWpBNVZXMDZxZGtHN3doSVgxUzlEUnBiaEd2RHVlZklzVVNKcTV1UEh3OGE1TGtEY29Wb3JiSnlmM3RmSWxUcU1yRFFuNldmRjFXYXJGZ3pLX0lidW9GMEZyOWN5U3Z1SjE4VzR6SzJlTVZFekh4WTNZbmljSFBETnFRVS1xTmdIclRsSU1adkVFclp6Ylg2UGRqX3VXNnQ4MFFxeWJxVWV2NkJjREtrN0NYZHBwNGc4RUI1Rkt3cHVVajFmdEhkeXRTX29JbkdWNlBscS1rNFdCTWZ2RDFSRjFn?oc=5",
+      "canonical_url": "https://doi.org/10.1088/2053-1583/ae8962",
       "source_urls": [
-        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQa050dllQZTZhLVFwXzZfc0wxNWd6Tkw1eWpBNVZXMDZxZGtHN3doSVgxUzlEUnBiaEd2RHVlZklzVVNKcTV1UEh3OGE1TGtEY29Wb3JiSnlmM3RmSWxUcU1yRFFuNldmRjFXYXJGZ3pLX0lidW9GMEZyOWN5U3Z1SjE4VzR6SzJlTVZFekh4WTNZbmljSFBETnFRVS1xTmdIclRsSU1adkVFclp6Ylg2UGRqX3VXNnQ4MFFxeWJxVWV2NkJjREtrN0NYZHBwNGc4RUI1Rkt3cHVVajFmdEhkeXRTX29JbkdWNlBscS1rNFdCTWZ2RDFSRjFn?oc=5"
+        "https://doi.org/10.1088/2053-1583/ae8962"
       ],
-      "source": "Google News",
-      "title_original": "Portugal is developing a graphene-based stealth material that could hide planes and drones from radar as defense powers watch - Vozpopuli",
-      "title_en": "Portugal develops graphene-based stealth material for aircraft and drones",
-      "excerpt_original": "Portugal is developing a graphene-based stealth material that could hide planes and drones from radar as defense powers watch Vozpopuli",
-      "summary_en": "Portugal is advancing the development of a graphene-based stealth material designed to shield military aircraft and drones from radar detection. This innovation highlights the growing interest of defense powers in utilizing nanomaterials for advanced counter-surveillance applications. The project marks a significant step forward in integrating graphene into aerospace defense technologies.",
+      "source": "IOP Publishing",
+      "title_original": "Terahertz spectroscopy of intrinsic and photoexcited carrier dynamics in Ti <sub>2</sub> CT <i> <sub>x</sub> </i> MXene films",
+      "title_en": "Terahertz spectroscopy reveals carrier dynamics in Ti2CTx MXene films",
+      "excerpt_original": "Abstract Metallic MXenes hold strong potential for applications in flexible electronics, electromagnetic interference shielding, photonics, and photothermal energy conversion. Realizing these applications requires a detailed understanding of carrier transport and its response to optical excitation. Here, we use terahertz (THz) time-domain spectroscopy and THz time-resolved spectroscopy to investigate the intrinsic conductivity and ultrafast photoresponse of Ti 2 CT x MXene, a less-explored member of the MXene family. Analysis of the complex THz conductivity spectra suggests that oxidation fragments Ti 2 CT x flakes into small, conductive regions separated by non-conductive areas. Within these conductive regions, electrons exhibit scattering times and local mobilities comparable to those in Ti 3 C 2 T x . These mobilities represent intrinsic upper limits that could be realized in Ti 2 CT x at macroscopic scales with improved oxidative stability and processing. Photoexcitation at both 400 nm and 800 nm induces a transient enhancement in THz conductivity, in contrast to Ti 3 C 2 T x , where photothermal heating suppresses mobility. Most photoexcited carriers in Ti 2 CT x recombine or become trapped within a few picoseconds, while a small fraction persists for hundreds of picoseconds. Photoinduced carriers exhibit longer scattering times and reduced localization compared to intrinsic carriers, suggesting that their excess kinetic energy allows them to overcome barriers from defects and oxidation. Excitation wavelength influences early-time dynamics: 800 nm excitation results in a slower rise and decay than 400 nm, consistent with inter-valley scattering between conduction-band valleys of differing mobility, or with initial excitation into low-mobility, defect-associated sta",
+      "summary_en": "Researchers utilize terahertz time-domain and time-resolved spectroscopy to investigate the intrinsic conductivity and ultrafast photoresponse of Ti2CTx MXene films. The analysis shows that oxidation fragments the flakes into small conductive regions separated by non-conductive areas, while photoexcitation induces a transient enhancement in THz conductivity. These findings provide critical insights into carrier transport and scattering mechanisms for potential applications in photonics and flexible electronics.",
       "language": "en",
-      "published_at": "2026-07-24",
-      "article_type": "Industry news",
-      "material_type": "graphene",
+      "published_at": "2026-07-23",
+      "article_type": "Academic research",
+      "material_type": "non-graphene",
       "verticals": [
-        "Defense and dual-use",
-        "Composites and coatings"
+        "Flexible electronics and force sensors",
+        "Semiconductor applications"
       ],
       "themes": [
-        "Research",
-        "Commercialization"
+        "Research"
       ],
       "companies": [],
-      "confidence": 0.8,
-      "duplicate_cluster_id": "cl_e1a56f083c8da8b1e3",
-      "featured": true,
-      "id": "art_e1a56f083c8da8b1e3"
+      "confidence": 0.95,
+      "duplicate_cluster_id": "cl_2157ef5e98e0573e2e",
+      "featured": false,
+      "id": "art_2157ef5e98e0573e2e"
+    },
+    {
+      "canonical_url": "https://doi.org/10.1002/ifm2.70027",
+      "source_urls": [
+        "https://doi.org/10.1002/ifm2.70027"
+      ],
+      "source": "Wiley",
+      "title_original": "Interface Engineering of Boron Nitride–Polymer Composites for High Thermal Conductivity",
+      "title_en": "Interface Engineering of Boron Nitride-Polymer Composites for High Thermal Conductivity",
+      "excerpt_original": "ABSTRACT With the rapid miniaturisation and integration of electronic devices, efficient thermal management has become critically important. Boron nitride (BN)‐polymer composites have attracted extensive attention owing to their high thermal conductivity and electrical insulation properties. However, the interfacial thermal resistance between BN and the polymer matrix limits their performance. Consequently, overcoming this bottleneck through interface engineering has emerged as a key research focus. This review systematically examines the current progress in BN‐polymer composites from the perspective of interface engineering. First, the phonon‐mediated heat transfer mechanism and the bottleneck of interfacial thermal resistance are analyzed. Subsequently, various interface engineering strategies are classified according to the forms of interfacial interaction between BN and the polymer. These strategies include covalent bonding, non‐covalent interactions, and physical morphology control. In addition, defect engineering is discussed as an emerging perspective, offering insights into interface design. The effectiveness of the above strategies in establishing continuous thermal conduction pathways and enhancing the performance of the composites is evaluated. Finally, application prospects are summarized and future research directions are proposed.",
+      "summary_en": "This academic review examines recent advances in interface engineering for boron nitride-polymer composites to improve thermal conductivity and address high interfacial thermal resistance. It details strategies such as covalent bonding, non-covalent interactions, physical morphology control, and defect engineering to optimize phonon-mediated heat transfer for electronic device applications. The findings offer valuable pathways for designing high-performance thermally conductive composite materials.",
+      "language": "en",
+      "published_at": "2026-07-23",
+      "article_type": "Academic research",
+      "material_type": "non-graphene",
+      "verticals": [
+        "Thermal management",
+        "Composites and coatings",
+        "Semiconductor applications"
+      ],
+      "themes": [
+        "Research"
+      ],
+      "companies": [],
+      "confidence": 0.95,
+      "duplicate_cluster_id": "cl_5610660d2ca2c89d06",
+      "featured": false,
+      "id": "art_5610660d2ca2c89d06"
     },
     {
       "canonical_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMnZ0ZGhfTGpBTGhRWGI4NDNadTNPN0RuNmt6bGttNmRVQWFMUDJnUHd4SnJUMmVnNEJVaVprNnVMcHBqUmQxTlRLaHpfa2xrc0dnczYzLVZSaXUyUy1WU0ppYy0yZ3BicHM5V1d1eEMxMUtaTlFKQV9Lb3dqT19aTHVOMEE?oc=5",
@@ -238,9 +435,9 @@
       ],
       "source": "Google News",
       "title_original": "Striped or checkered? Magnetic field influences competing electronic patterns in a graphene-like quantum material - Phys.org",
-      "title_en": "Magnetic Field Influences Competing Electronic Patterns in Graphene-Like Quantum Material",
+      "title_en": "Magnetic fields influence competing electronic patterns in graphene-like quantum materials",
       "excerpt_original": "Striped or checkered? Magnetic field influences competing electronic patterns in a graphene-like quantum material Phys.org",
-      "summary_en": "Researchers at Phys.org explored how magnetic fields influence competing striped versus checkered electronic patterns in a graphene-like quantum material. The study sheds light on the fundamental electronic behaviors and phase competitions within novel 2D material structures. Such findings contribute to a deeper understanding of quantum properties relevant to advanced electronic applications.",
+      "summary_en": "Researchers investigate how external magnetic fields can control competing electronic patterns—such as striped or checkered states—in a graphene-like quantum material. This study highlights fundamental electronic behaviors in 2D systems, offering insights into quantum phase transitions and advanced material properties.",
       "language": "en",
       "published_at": "2026-07-23",
       "article_type": "Academic research",
@@ -258,64 +455,30 @@
       "id": "art_f65af529210734f0db"
     },
     {
-      "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlgtZEk2aFBUNHFmT3c4VFF4dk4wUHhaVU9YbnYybDBRSjJpTlB6THA4WHFLXzdXT0RyNDNMbGs5a2VOb0M3QnNTSmpPYmQxVUJ6YkR6VkRScUJrLTlITlloTlVEV2RjZFlPWG5qc0U0WUx6LUZPNnlEVEkwWW1CLUZhOVdndk5fVlpBR0lqZnFKWmJ4UmU3cXdkcFJZbk9HelBFMGF3?oc=5",
+      "canonical_url": "https://doi.org/10.1021/acsami.6c09285",
       "source_urls": [
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlgtZEk2aFBUNHFmT3c4VFF4dk4wUHhaVU9YbnYybDBRSjJpTlB6THA4WHFLXzdXT0RyNDNMbGs5a2VOb0M3QnNTSmpPYmQxVUJ6YkR6VkRScUJrLTlITlloTlVEV2RjZFlPWG5qc0U0WUx6LUZPNnlEVEkwWW1CLUZhOVdndk5fVlpBR0lqZnFKWmJ4UmU3cXdkcFJZbk9HelBFMGF3?oc=5"
+        "https://doi.org/10.1021/acsami.6c09285"
       ],
-      "source": "Google News",
-      "title_original": "HydroGraph Provides Update on Expanded U.S. Federal Government and Defense Focus, Calls for Graphene to Be Designated a Critical Material - Yahoo Finance",
-      "title_en": "HydroGraph Expands U.S. Federal and Defense Focus and Advocates for Graphene Critical Material Designation",
-      "excerpt_original": "HydroGraph Provides Update on Expanded U.S. Federal Government and Defense Focus, Calls for Graphene to Be Designated a Critical Material Yahoo Finance",
-      "summary_en": "HydroGraph Clean Power has provided an update on its strategic expansion into the U.S. federal government and defense sectors. Additionally, the company is actively calling for graphene to be officially designated as a critical material to support domestic supply chain security and industrial development.",
+      "source": "American Chemical Society (ACS)",
+      "title_original": "Multifunctional Nb <sub>2</sub> C MXene-Enhanced 3D Porous Si <sub>3</sub> N <sub>4</sub> Scaffolds for Bone Regeneration and Photothermal Tumor Therapy",
+      "title_en": "Multifunctional Nb2C MXene-Enhanced 3D Porous Si3N4 Scaffolds for Bone Regeneration and Photothermal Tumor Therapy",
+      "excerpt_original": "",
+      "summary_en": "This academic study reports on the development of multifunctional Nb2C MXene-enhanced 3D porous Si3N4 scaffolds designed for bone regeneration and photothermal tumor therapy. The research highlights the potential of these advanced non-graphene nanomaterials in biomedical applications, specifically combining structural support for bone tissue engineering with targeted photothermal ablation of tumors. The findings demonstrate significant progress in multifunctional biomaterials for therapeutic and regenerative medicine.",
       "language": "en",
-      "published_at": "2026-07-23",
-      "article_type": "Industry news",
-      "material_type": "graphene",
+      "published_at": "2026-07-21",
+      "article_type": "Academic research",
+      "material_type": "non-graphene",
       "verticals": [
-        "Defense and dual-use"
+        "Biomedical"
       ],
       "themes": [
-        "Commercialization",
-        "Regulation"
+        "Research"
       ],
-      "companies": [
-        "HydroGraph Clean Power"
-      ],
-      "confidence": 0.85,
-      "duplicate_cluster_id": "cl_d7dcbefd1d03be8789",
+      "companies": [],
+      "confidence": 0.95,
+      "duplicate_cluster_id": "cl_adb43d1abc00a219ee",
       "featured": false,
-      "id": "art_d7dcbefd1d03be8789"
-    },
-    {
-      "canonical_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPamd0R0NBc0JUTkNFbjBUUFhGd3NlSE1qc1d2alpxY1JzWWVDd1lEcVRMRjV3clBDZFRsSnljYVA3SlhQVDVFckZxcFFEVGhUR1p0V09QQS1VUVhMOVU0VG5ZdWNvdHMzOUg4WXgzZlN5N2JCMDZITVNtZEZEM1FZbjhpbUdfX1dSQWV5VnByVjdyM3ZoVDQxZkJqcGl0ekVnZC0wYllabHB0QnJRNDY3N0pMWGFoTE9IbUxMRU1vdGdLU0hWcm1CSkZIZEUzNUc0aDZTY0NkY1lIbjFMcmJqQUFkZW9iSXVLSXkteW9EZzg4d0FEMERaU3RKOTE2LXBmZ1p0QWxoU1o?oc=5",
-      "source_urls": [
-        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPamd0R0NBc0JUTkNFbjBUUFhGd3NlSE1qc1d2alpxY1JzWWVDd1lEcVRMRjV3clBDZFRsSnljYVA3SlhQVDVFckZxcFFEVGhUR1p0V09QQS1VUVhMOVU0VG5ZdWNvdHMzOUg4WXgzZlN5N2JCMDZITVNtZEZEM1FZbjhpbUdfX1dSQWV5VnByVjdyM3ZoVDQxZkJqcGl0ekVnZC0wYllabHB0QnJRNDY3N0pMWGFoTE9IbUxMRU1vdGdLU0hWcm1CSkZIZEUzNUc0aDZTY0NkY1lIbjFMcmJqQUFkZW9iSXVLSXkteW9EZzg4d0FEMERaU3RKOTE2LXBmZ1p0QWxoU1o?oc=5"
-      ],
-      "source": "Google News",
-      "title_original": "Volt Carbon, Solid Ultrabattery and TensorOne Enter Strategic Collaboration to Advance Next-Generation Autonomous Aircraft Technologies - TMX Newsfile",
-      "title_en": "Volt Carbon, Solid Ultrabattery and TensorOne Partner for Autonomous Aircraft",
-      "excerpt_original": "Volt Carbon, Solid Ultrabattery and TensorOne Enter Strategic Collaboration to Advance Next-Generation Autonomous Aircraft Technologies TMX Newsfile",
-      "summary_en": "Volt Carbon Technologies, Solid Ultrabattery, and TensorOne have entered into a strategic collaboration to develop next-generation technologies for autonomous aircraft. The partnership aims to leverage their respective expertise to advance energy storage and aerospace applications.",
-      "language": "en",
-      "published_at": "2026-07-23",
-      "article_type": "Industry news",
-      "material_type": "graphene",
-      "verticals": [
-        "Defense and dual-use",
-        "Energy storage"
-      ],
-      "themes": [
-        "Partnerships",
-        "Commercialization"
-      ],
-      "companies": [
-        "Volt Carbon Technologies",
-        "Solid Ultrabattery"
-      ],
-      "confidence": 0.85,
-      "duplicate_cluster_id": "cl_dc6adfd557b44f9ea2",
-      "featured": true,
-      "id": "art_dc6adfd557b44f9ea2"
+      "id": "art_adb43d1abc00a219ee"
     },
     {
       "canonical_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFhDR21XM1FLV2EyOHd5eURZVm5zblkyajZDa2dJMUk1OFgzYWFOaVkzc3JBUEZmRkpFVXMwdnFXeVhELXVwZFl5RXdYVkdYQWhYVUxmT21KbmVMR0ZVSnNibEJmS3dSUkw2TnV6R0NoSWg3cVZfa01jd2lIb2VQRnMwWDBVdGVUbmZ2QWxhcUwtOWlf?oc=5",
@@ -324,9 +487,9 @@
       ],
       "source": "Google News",
       "title_original": "Zentek secures US commercial pathway for graphene-enhanced air filtration media - Cleanroom Technology",
-      "title_en": "Zentek Secures US Commercial Pathway for Graphene-Enhanced Air Filtration Media",
+      "title_en": "Zentek secures US commercial pathway for graphene-enhanced air filtration media",
       "excerpt_original": "Zentek secures US commercial pathway for graphene-enhanced air filtration media Cleanroom Technology",
-      "summary_en": "Zentek has achieved a regulatory and commercial milestone by securing a pathway to the United States market for its graphene-enhanced air filtration media. This development marks a significant step forward in the commercialization of the company's proprietary nanomaterial technology for cleanroom and protective applications. The expansion into the US market is expected to drive broader adoption of their filtration solutions.",
+      "summary_en": "Zentek has announced a commercial pathway in the United States for its graphene-enhanced air filtration media, marking a significant step toward market entry. This development highlights the growing adoption of nanomaterials in advanced filtration applications. The move is expected to expand the company's market footprint in North America.",
       "language": "en",
       "published_at": "2026-07-21",
       "article_type": "Industry news",
@@ -335,8 +498,7 @@
         "Air/water filtration and separation"
       ],
       "themes": [
-        "Commercialization",
-        "Regulation"
+        "Commercialization"
       ],
       "companies": [
         "Zentek"
@@ -345,19 +507,156 @@
       "duplicate_cluster_id": "cl_e8a6b4f50f95267055",
       "featured": true,
       "id": "art_e8a6b4f50f95267055"
+    },
+    {
+      "canonical_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdm9zbXV2SDljWUJfS0pFYnJDS3d6eE1OOElzTUJWbF9oTFZ5WDl2UVFuU2VUZ0dxQnBudEhlbE03ZWhoNHRUVXFQYkR5VHoycDkxZ2txSjNMSzJQbTJRVXdkeHJQMlRZYkhoQzdiTndjSUZFMTlSbHd6VFlTLTFncXFxLXI3OWpoYlhNdnZVMk83YXo2SjExbklQZw?oc=5",
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdm9zbXV2SDljWUJfS0pFYnJDS3d6eE1OOElzTUJWbF9oTFZ5WDl2UVFuU2VUZ0dxQnBudEhlbE03ZWhoNHRUVXFQYkR5VHoycDkxZ2txSjNMSzJQbTJRVXdkeHJQMlRZYkhoQzdiTndjSUZFMTlSbHd6VFlTLTFncXFxLXI3OWpoYlhNdnZVMk83YXo2SjExbklQZw?oc=5"
+      ],
+      "source": "Google News",
+      "title_original": "HydroGraph Clean Power (CNSX:HG) Is Up 10.8% After Securing Texas Graphene Scale-up Agreements - Yahoo Finance",
+      "title_en": "HydroGraph Clean Power Secures Texas Graphene Scale-up Agreements",
+      "excerpt_original": "HydroGraph Clean Power (CNSX:HG) Is Up 10.8% After Securing Texas Graphene Scale-up Agreements Yahoo Finance",
+      "summary_en": "HydroGraph Clean Power has announced new graphene scale-up agreements in Texas, prompting a 10.8% increase in its stock price. This development highlights the company's commercial expansion and strategic partnerships within the region. The agreements are a significant step forward in the company's manufacturing and scaling capabilities.",
+      "language": "en",
+      "published_at": "2026-07-21",
+      "article_type": "Industry news",
+      "material_type": "graphene",
+      "verticals": [
+        "Composites and coatings"
+      ],
+      "themes": [
+        "Partnerships",
+        "Commercialization",
+        "Fundraising"
+      ],
+      "companies": [
+        "HydroGraph Clean Power"
+      ],
+      "confidence": 0.9,
+      "duplicate_cluster_id": "cl_df59fdd228a7766cf5",
+      "featured": true,
+      "id": "art_df59fdd228a7766cf5"
+    },
+    {
+      "canonical_url": "https://doi.org/10.1108/hff-03-2026-0387",
+      "source_urls": [
+        "https://doi.org/10.1108/hff-03-2026-0387"
+      ],
+      "source": "Emerald",
+      "title_original": "Mixed convection and entropy generation in an open cavity for thermal control applications using GO + MXene hybrid nanofluids and phase change material",
+      "title_en": "Mixed Convection and Entropy Generation in Thermal Control Open Cavities Using GO and MXene Hybrid Nanofluids",
+      "excerpt_original": "Purpose The primary purpose of this study is to investigate the mixed convection and entropy generation performance of an open cavity using a combination of phase change materials (PCM), metal foam and hybrid nanofluids (HyNFs). By evaluating various cavity orientations, PCM layer thicknesses and nanoparticle concentrations under different flow conditions, the research aims to identify the optimal configuration for uniform heat distribution. Ultimately, the study seeks to provide an effective and innovative thermal control perspective for optimizing heat generation systems. Design/methodology/approach A numerical approach was used to analyze an open cavity integrating a PCM, metal foam and GO + MXene hybrid nanofluids. Computations were performed under laminar flow conditions (Re = 100 and 1,000) with a constant heat flux of 1,000 W/m² applied to all cases. The study systematically evaluated three different cavity orientations, two PCM layer thicknesses (0.2D and 0.5D), and varying nanoparticle weight concentrations (0.1, 0.2 and 0.3 Wt.%) to assess their combined effects on mixed convection, melting performance and entropy generation. Findings The results demonstrate that the vertical upper cavity orientation is optimal for uniform heat distribution, reaching steady state significantly faster (1,200 s earlier) than the horizontal setup. Notably, adding nanoparticles suppressed natural convection, which decreased melting performance. However, the highest Nusselt number (Nu) was achieved using 0.3 Wt.% hybrid nanofluid across all conditions, with the vertical upper cavity doubling the Nu compared to other configurations. In addition, maximum total entropy generation occurred in the vertical bottom cavity model (0.2D), yielding values approximately four times higher than ",
+      "summary_en": "This academic study numerically investigates the mixed convection and entropy generation performance of an open cavity integrating phase change materials, metal foam, and GO plus MXene hybrid nanofluids. The findings indicate that vertical upper cavity orientations optimize uniform heat distribution and enhance the Nusselt number, whereas nanoparticle additions can suppress natural convection. The research provides insights for optimizing advanced thermal management and heat generation systems.",
+      "language": "en",
+      "published_at": "2026-07-21",
+      "article_type": "Academic research",
+      "material_type": "non-graphene",
+      "verticals": [
+        "Thermal management"
+      ],
+      "themes": [
+        "Research"
+      ],
+      "companies": [],
+      "confidence": 0.9,
+      "duplicate_cluster_id": "cl_ace9264e8aba385327",
+      "featured": false,
+      "id": "art_ace9264e8aba385327"
+    },
+    {
+      "canonical_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV05yOERwaHpNTS0xNHFoX3lnXzZmMTNCdEcxYTBweFR2aG0zZzhFUnk0MXV0N1V4M25QNTdianNNOTVIN2R2V3FVOGRvSk80UFZFUTl4Y0tqRW9wamY1YnV5SVpCcFhLd1cwRzFfRFhYSFpUV1BZeGxSRHZPbDV6LVdaYXpBQWRwUHlUSkQtX25Mc2doN2xfMW1OQWItOTVFakYzRF9seUU5cGtGOWpka2xIbG0?oc=5",
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV05yOERwaHpNTS0xNHFoX3lnXzZmMTNCdEcxYTBweFR2aG0zZzhFUnk0MXV0N1V4M25QNTdianNNOTVIN2R2V3FVOGRvSk80UFZFUTl4Y0tqRW9wamY1YnV5SVpCcFhLd1cwRzFfRFhYSFpUV1BZeGxSRHZPbDV6LVdaYXpBQWRwUHlUSkQtX25Mc2doN2xfMW1OQWItOTVFakYzRF9seUU5cGtGOWpka2xIbG0?oc=5"
+      ],
+      "source": "Google News",
+      "title_original": "First Graphene Ltd (ASX:FGR) Dips 7.69% as Advanced Materials Business Expands - Kalkine",
+      "title_en": "First Graphene Stock Dips Despite Advanced Materials Business Expansion",
+      "excerpt_original": "First Graphene Ltd (ASX:FGR) Dips 7.69% as Advanced Materials Business Expands Kalkine",
+      "summary_en": "First Graphene Ltd experienced a 7.69 percent drop in its stock price on the ASX. Meanwhile, the company continues to focus on the expansion of its advanced materials business operations. The market reaction highlights ongoing investor sentiment fluctuations surrounding commercialization progress in the advanced materials sector.",
+      "language": "en",
+      "published_at": "2026-07-21",
+      "article_type": "Industry news",
+      "material_type": "graphene",
+      "verticals": [
+        "Composites and coatings",
+        "Energy storage"
+      ],
+      "themes": [
+        "Commercialization"
+      ],
+      "companies": [
+        "First Graphene"
+      ],
+      "confidence": 0.85,
+      "duplicate_cluster_id": "cl_1cf5c7ec23b2edd50c",
+      "featured": false,
+      "id": "art_1cf5c7ec23b2edd50c"
+    },
+    {
+      "canonical_url": "https://doi.org/10.1021/acsami.6c02820",
+      "source_urls": [
+        "https://doi.org/10.1021/acsami.6c02820"
+      ],
+      "source": "American Chemical Society (ACS)",
+      "title_original": "Superior Hydrogenation Performance of Mg-Ni-Y Alloys at a Moderate Temperature with Lanthanum-Functionalized MXene-Derived Catalysts",
+      "title_en": "Superior Hydrogenation Performance of Mg-Ni-Y Alloys at Moderate Temperatures Using Lanthanum-Functionalized MXene-Derived Catalysts",
+      "excerpt_original": "",
+      "summary_en": "This academic study investigates the hydrogenation performance of Mg-Ni-Y alloys utilizing lanthanum-functionalized MXene-derived catalysts at moderate temperatures. The research demonstrates improved catalytic activity and hydrogen storage kinetics enabled by the modified MXene structure. These findings contribute to the development of advanced materials for efficient hydrogen storage systems.",
+      "language": "en",
+      "published_at": "2026-07-20",
+      "article_type": "Academic research",
+      "material_type": "non-graphene",
+      "verticals": [
+        "Energy storage"
+      ],
+      "themes": [
+        "Research"
+      ],
+      "companies": [],
+      "confidence": 0.95,
+      "duplicate_cluster_id": "cl_2cfb9938f2cb9b7ca8",
+      "featured": false,
+      "id": "art_2cfb9938f2cb9b7ca8"
+    },
+    {
+      "canonical_url": "https://doi.org/10.1007/s10904-026-04459-7",
+      "source_urls": [
+        "https://doi.org/10.1007/s10904-026-04459-7"
+      ],
+      "source": "Springer Science and Business Media LLC",
+      "title_original": "Effect of Etching Strategy (HF vs. In Situ HF via LiF/HCl) on Structural Properties and Adsorption Performance of Ti3C2Tx MXene for Reactive Blue 221 Removal",
+      "title_en": "Effect of Etching Strategy on Structural Properties and Adsorption Performance of Ti3C2Tx MXene for Dye Removal",
+      "excerpt_original": "",
+      "summary_en": "This academic study investigates the impact of different etching strategies, comparing traditional HF etching with in-situ HF generation via LiF/HCl, on the structural properties and adsorption performance of Ti3C2Tx MXene. The research evaluates the effectiveness of these materials in removing Reactive Blue 221 from aqueous solutions. Findings provide insights into optimizing MXene synthesis routes for enhanced environmental remediation and adsorption applications.",
+      "language": "en",
+      "published_at": "2026-07-20",
+      "article_type": "Academic research",
+      "material_type": "non-graphene",
+      "verticals": [
+        "Air/water filtration and separation"
+      ],
+      "themes": [
+        "Research"
+      ],
+      "companies": [],
+      "confidence": 0.9,
+      "duplicate_cluster_id": "cl_d3873a1faf29d1c42d",
+      "featured": false,
+      "id": "art_d3873a1faf29d1c42d"
     }
   ],
   "run_metadata": {
     "ai_provider": "gemini",
     "ai_enabled": true,
-    "ai_requests": 20,
-    "ai_estimated_cost_usd": 0.027192,
+    "ai_requests": 31,
+    "ai_estimated_cost_usd": 0.04393,
     "candidate_count": 350,
-    "deduplicated_candidate_count": 258,
-    "published_count": 12,
+    "deduplicated_candidate_count": 255,
+    "published_count": 23,
     "rejected": [
       {
-        "url": "http://www.graphene.tv/20260726157038",
+        "url": "http://www.graphene.tv/20260726157016",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
@@ -369,11 +668,15 @@
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
-        "url": "http://www.graphene.tv/20260725157040",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkhmXzNDRUhHNUtsYUFwQUNCTXhWT2lOak1EYkQ3MS1BSzNEaS1NWk5tc3NwUWl5S1VfTnhEd05DZWk3a1ZiVlBweHUyZ1p5MFZvdENMN1RDRU5JTzFtN3NNcDQtaEM1NkRGZjhqMzVUbFFMeGluclM1aTBaZ2IzLVRkQjUxY0VFUHg4?oc=5",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkhmXzNDRUhHNUtsYUFwQUNCTXhWT2lOak1EYkQ3MS1BSzNEaS1NWk5tc3NwUWl5S1VfTnhEd05DZWk3a1ZiVlBweHUyZ1p5MFZvdENMN1RDRU5JTzFtN3NNcDQtaEM1NkRGZjhqMzVUbFFMeGluclM1aTBaZ2IzLVRkQjUxY0VFUHg4?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQa050dllQZTZhLVFwXzZfc0wxNWd6Tkw1eWpBNVZXMDZxZGtHN3doSVgxUzlEUnBiaEd2RHVlZklzVVNKcTV1UEh3OGE1TGtEY29Wb3JiSnlmM3RmSWxUcU1yRFFuNldmRjFXYXJGZ3pLX0lidW9GMEZyOWN5U3Z1SjE4VzR6SzJlTVZFekh4WTNZbmljSFBETnFRVS1xTmdIclRsSU1adkVFclp6Ylg2UGRqX3VXNnQ4MFFxeWJxVWV2NkJjREtrN0NYZHBwNGc4RUI1Rkt3cHVVajFmdEhkeXRTX29JbkdWNlBscS1rNFdCTWZ2RDFSRjFn?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlgtZEk2aFBUNHFmT3c4VFF4dk4wUHhaVU9YbnYybDBRSjJpTlB6THA4WHFLXzdXT0RyNDNMbGs5a2VOb0M3QnNTSmpPYmQxVUJ6YkR6VkRScUJrLTlITlloTlVEV2RjZFlPWG5qc0U0WUx6LUZPNnlEVEkwWW1CLUZhOVdndk5fVlpBR0lqZnFKWmJ4UmU3cXdkcFJZbk9HelBFMGF3?oc=5",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
@@ -401,10 +704,6 @@
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qWUsyd1Q2NnhFNXdraW1nWGpYRE5lUm5IRzFkcE9oZ3I0RTNDVThZUG0yTWxEV3JQYlZ3MWo2SXVfYlhQZTBlNVV1MUZZNFQ2bHFFakRCT1lsTEMxQzF3MWhwS2doT2RXVFJNSTFkbTUxTlBX?oc=5",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ2NyUldCc25TUlRpaDZkbktzbmhnYlY0RXlkZWVEQmVvR2tQYndYY2JhRktrOS0tcjlIMXpuRElHdUJhb3N1ZFFyTmRpVGdSZXZTeVctQ19RdUxuUzJTenZMYzBacEwyZlZueW5lUjNVSWp4SUVOUFpuMkkyNThvTkpvTHJTOUVXQkZCZXVJcnBNejQ5R040Qi1ETVNFeFp0UUZGLUx1M2czUy1IRWtTbWxrM2VxWHc0bWpNaXF6REdOWk8tZVBwbzg1OVRndDVmbVd4QzRtUdIB3AFBVV95cUxOekptdDRfbTZKS0MxUzhkcHRhd2JYMGZpOTE3SjJWX3JNRkNsUHV3cTdEdXU4Qmp2WEtGVXRkYThaVXBYVGctNU9raE9uaEJjM2lmMWQ0YkNKdno3Nm85X0dDN0lNR0VRc204RVdNVXg5enZUcmNWNktROUJYZjBsZFVvQXd4cmVhME5SU3B4RlJBakRMQUc1bmVCbmhNTlZsS0NWZW9aMjRtSEdfZ0ZyNmtYak4tejd0aVgxMXB3WUpGSDBmWmh1bUNiUGI3X24tWjlKM3FFMFhfYkVt?oc=5",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
@@ -421,10 +720,6 @@
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV05yOERwaHpNTS0xNHFoX3lnXzZmMTNCdEcxYTBweFR2aG0zZzhFUnk0MXV0N1V4M25QNTdianNNOTVIN2R2V3FVOGRvSk80UFZFUTl4Y0tqRW9wamY1YnV5SVpCcFhLd1cwRzFfRFhYSFpUV1BZeGxSRHZPbDV6LVdaYXpBQWRwUHlUSkQtX25Mc2doN2xfMW1OQWItOTVFakYzRF9seUU5cGtGOWpka2xIbG0?oc=5",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHBaTGlvbVI3ZDZqVGNOLWg4Z2hkNTNELUVia0lRVkZQd0NRWlhMY3BONmhOYWVYMkhNNFFqRHRNMEVoNV9nRlVwNGJBSkNIbS1Jd1ctckNES19mdERjQ3J1WHJEcVJrTkVKZ3VCZ3lyMVlteWM3RU9VTWRLejMzV1hnM2UwaUxVQWdDZHlVc1RlUGhjSkRZQlNzQXBRUGVEdHBBeVV2RXFlZw?oc=5",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
@@ -437,7 +732,7 @@
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdm9zbXV2SDljWUJfS0pFYnJDS3d6eE1OOElzTUJWbF9oTFZ5WDl2UVFuU2VUZ0dxQnBudEhlbE03ZWhoNHRUVXFQYkR5VHoycDkxZ2txSjNMSzJQbTJRVXdkeHJQMlRZYkhoQzdiTndjSUZFMTlSbHd6VFlTLTFncXFxLXI3OWpoYlhNdnZVMk83YXo2SjExbklQZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPamd0R0NBc0JUTkNFbjBUUFhGd3NlSE1qc1d2alpxY1JzWWVDd1lEcVRMRjV3clBDZFRsSnljYVA3SlhQVDVFckZxcFFEVGhUR1p0V09QQS1VUVhMOVU0VG5ZdWNvdHMzOUg4WXgzZlN5N2JCMDZITVNtZEZEM1FZbjhpbUdfX1dSQWV5VnByVjdyM3ZoVDQxZkJqcGl0ekVnZC0wYllabHB0QnJRNDY3N0pMWGFoTE9IbUxMRU1vdGdLU0hWcm1CSkZIZEUzNUc0aDZTY0NkY1lIbjFMcmJqQUFkZW9iSXVLSXkteW9EZzg4d0FEMERaU3RKOTE2LXBmZ1p0QWxoU1o?oc=5",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
@@ -490,6 +785,10 @@
       },
       {
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNUJfTzJqNkthNUVkekNwYWdBU01nanU4T2otUWo0VW1aZzFKZjZSaGRPQ1RkNGJObFcyQVU2SGg4SExLS0FOUmZRSlFOSS1rakc5Z24zaTU5Y3Fsd0Rhd3JEYWZpeWJFUTJLQXVQR0JRUWVodmVhbFpaZXJobHdzemNHZW1JbjhzMzBISFVtSzFtWXIxOU5uLXRuVkFINnY1d2dNMnNCemFTTmttMld3ckFNOXFrcTVpMDFxVk8xZ1hfVW5kWEpibUN6bmdpVWZxUzdUVlVOQmZaOEVrZDZLQ0dFWFA0QzJaUVE?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY0tXNkliaFM2Z1d5ZkgycWhWcm9PMWtNZFAtaFYzSGIzLVhQR1dFUU9uSjlzei03aUxhdTVGeG9YOWVUZlVhNTkxeU9xdkVnNm5ReVI2YlJ0TGZTbXUtZXJGck93MVVUNktDSndfZzZzTFJKWktyb0Jfa1N1a3gwSjl4UW03YTNRZHlVUVA4OGhnU3VuRERqS3NxS1lBNjJjdUs0OXJZRTdFOWdvZGg0VVFrVG8wSXJ1SGs2eWpn?oc=5",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
@@ -625,11 +924,11 @@
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
-        "url": "https://doi.org/10.1021/acsnanoscienceau.6c00063",
+        "url": "https://doi.org/10.1088/2977-3504/ae8f4d",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
-        "url": "https://doi.org/10.1088/2977-3504/ae8f4d",
+        "url": "https://doi.org/10.1021/acsnanoscienceau.6c00063",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
@@ -981,6 +1280,10 @@
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
+        "url": "https://openalex.org/W7171267927",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
         "url": "https://doi.org/10.1038/s41467-026-73159-0",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
@@ -1022,10 +1325,6 @@
       },
       {
         "url": "https://doi.org/10.1088/2053-1591/ae8faa",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
-        "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129290",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
@@ -1225,11 +1524,11 @@
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
-        "url": "https://doi.org/10.1002/masy.70447",
+        "url": "https://doi.org/10.1103/wl1m-s2y9",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
-        "url": "https://doi.org/10.1103/wl1m-s2y9",
+        "url": "https://doi.org/10.1002/masy.70447",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
@@ -1249,15 +1548,15 @@
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
+        "url": "https://doi.org/10.1103/7xj7-hn98",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
         "url": "https://doi.org/10.1080/10408436.2026.2698037",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
         "url": "https://doi.org/10.1103/7rdf-msdn",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
-        "url": "https://doi.org/10.1103/7xj7-hn98",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
@@ -1277,67 +1576,11 @@
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
-        "url": "https://doi.org/10.1002/smll.74773",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
-        "url": "https://doi.org/10.25258/ijddt.16.69s.55",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
-        "url": "https://doi.org/10.1021/acsami.6c02820",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
         "url": "https://doi.org/10.1021/acsami.6c11575",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       },
       {
         "url": "https://doi.org/10.1088/1361-6528/ae84d4",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
-        "url": "https://doi.org/10.1088/2053-1583/ae8962",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
-        "url": "https://doi.org/10.1108/hff-03-2026-0387",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
-        "url": "https://doi.org/10.1007/s10904-026-04459-7",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
-        "url": "https://doi.org/10.1002/aenm.71354",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
-        "url": "https://doi.org/10.1021/acsami.6c09285",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
-        "url": "https://arxiv.org/abs/2607.22089v1",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
-        "url": "https://arxiv.org/abs/2607.21699v1",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
-        "url": "https://arxiv.org/abs/2607.21234v1",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
-        "url": "https://arxiv.org/abs/2607.21177v1",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
-        "url": "https://arxiv.org/abs/2607.20117v1",
-        "error": "HTTPError: HTTP Error 429: Too Many Requests"
-      },
-      {
-        "url": "https://arxiv.org/abs/2607.19732v1",
         "error": "HTTPError: HTTP Error 429: Too Many Requests"
       }
     ],
