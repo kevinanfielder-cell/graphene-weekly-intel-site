@@ -2,199 +2,1345 @@
   "period": {
     "start": "2026-07-20",
     "end": "2026-07-26",
-    "label": "30 · 2026"
+    "label": "31 · 2026"
   },
-  "generated_at": "2026-07-27T08:00:00-04:00",
-  "briefing": "Defense supply chains, data-center power and deployable manufacturing dominated the week. The strongest commercialization signals came from systems integration—not stand-alone material launches—while 2D semiconductor and thermal research continued to widen the competitive field.",
+  "generated_at": "2026-07-27T10:00:25-04:00",
+  "briefing": "This issue tracks 6 verified signals across Composites and coatings, Defense and dual-use, Semiconductor applications. Activity spans 4 named companies, with commercial announcements assessed alongside academic and competing-material evidence. Lower-confidence or promotional claims remain visible and are explicitly flagged for follow-up.",
   "sources": [
-    "Graphene-Info",
     "Google News",
-    "Nature / academic publishers",
-    "University repositories"
+    "Graphene.tv"
   ],
   "articles": [
     {
-      "id": "art_skeleton_dgmatrix_20260726",
-      "canonical_url": "https://www.graphene-info.com/skeleton-technologies-partners-dg-matrix-800v-dc-power-ai-data-centers",
-      "source_urls": ["https://www.graphene-info.com/skeleton-technologies-partners-dg-matrix-800v-dc-power-ai-data-centers"],
-      "source": "Graphene-Info",
-      "title_original": "Skeleton Technologies partners with DG Matrix on 800V DC power for AI data centers",
-      "title_en": "Skeleton and DG Matrix target 800V DC power architectures for AI data centers",
-      "excerpt_original": "Skeleton will integrate high-power, fast-response storage across DG Matrix's solid-state transformer platform.",
-      "summary_en": "Skeleton Technologies will integrate its Curved Graphene-based supercapacitors and SuperBattery systems with DG Matrix’s Interport solid-state transformer platform. The partnership positions graphene-enabled storage as a response layer for the repetitive pulse loads created by GPU clusters.",
-      "language": "en",
-      "published_at": "2026-07-26",
-      "article_type": "Industry news",
-      "material_type": "graphene",
-      "verticals": ["Energy storage", "Thermal management", "Semiconductor applications"],
-      "themes": ["Partnerships", "Commercialization"],
-      "companies": ["Skeleton Technologies", "DG Matrix"],
-      "confidence": 0.96,
-      "duplicate_cluster_id": "cl_skeleton_dgmatrix_20260726",
-      "featured": true
-    },
-    {
-      "id": "art_lyten_modovolo_20260726",
-      "canonical_url": "https://www.graphene-info.com/lytens-graphene-enhanced-filament-be-integrated-modovolos-transportable-3d",
-      "source_urls": ["https://www.graphene-info.com/lytens-graphene-enhanced-filament-be-integrated-modovolos-transportable-3d"],
-      "source": "Graphene-Info",
-      "title_original": "Lyten's graphene-enhanced filament to be integrated into Modovolo's transportable 3D printing platform",
-      "title_en": "Lyten’s graphene filament moves into deployable large-format manufacturing",
-      "excerpt_original": "The companies plan to integrate graphene-enhanced PA1205 filament into a modular, transportable large-format printer.",
-      "summary_en": "Lyten and Modovolo are pairing graphene-enhanced PA1205 filament with a containerized large-format printing system developed for aviation, industrial, motorsports and defense uses. The combination points to field-deployable production of high-performance components and shorter domestic supply chains.",
-      "language": "en",
-      "published_at": "2026-07-26",
-      "article_type": "Industry news",
-      "material_type": "graphene",
-      "verticals": ["Defense and dual-use", "Composites and coatings"],
-      "themes": ["Partnerships", "Commercialization"],
-      "companies": ["Lyten", "Modovolo"],
-      "confidence": 0.95,
-      "duplicate_cluster_id": "cl_lyten_modovolo_20260726",
-      "featured": true
-    },
-    {
-      "id": "art_hydrograph_critical_20260725",
-      "canonical_url": "https://www.graphene-info.com/hydrograph-calls-us-policymakers-designate-graphene-critical-material",
+      "canonical_url": "http://www.graphene.tv/20260726157042",
       "source_urls": [
-        "https://www.graphene-info.com/hydrograph-calls-us-policymakers-designate-graphene-critical-material",
-        "https://portal.sina.com.hk/finance/finance-globenewswire/globenewswire/2026/07/23/1863534/hydrograph-provides-update-on-expanded-u-s-federal-government-and-defense-focus-calls-for-graphene-to-be-designated-a-critical-material/"
+        "http://www.graphene.tv/20260726157042"
       ],
-      "source": "Graphene-Info + GlobeNewswire",
-      "title_original": "HydroGraph calls on US policymakers to designate graphene a critical material",
-      "title_en": "HydroGraph pushes for US critical-material status and defense qualification programs",
-      "excerpt_original": "The company argues that domestic graphene production could reduce exposure to foreign-controlled graphite supplies.",
-      "summary_en": "HydroGraph asked US policymakers to designate graphene under the Defense Production Act and fund qualification pilots. Its case emphasizes a US hydrocarbon-gas feedstock route that avoids mined graphite, tying production technology directly to defense-industrial supply resilience.",
+      "source": "Graphene.tv",
+      "title_original": "金陵七月，光耀四方 | CIOP 2026在南京开幕",
+      "title_en": "CIOP 2026 Opens in Nanjing Featuring Research on Graphene-Like Optical Lattices",
+      "excerpt_original": "山西大学张靖教授的报告题为“Quantized vortex in an atomic Bose-Einstein condensate at Dirac point with emergent spin-orbit coupling”。张靖教授团队基于类石墨烯光学蜂窝晶格中的原子玻色-爱因斯坦凝聚体，直接观测到狄拉克…",
+      "summary_en": "The CIOP 2026 conference has officially opened in Nanjing, featuring prominent academic presentations. Among the highlights, Professor Jing Zhang's team from Shanxi University reported on quantized vortices in atomic Bose-Einstein condensates at Dirac points using graphene-like optical honeycomb lattices.",
+      "language": "zh",
+      "published_at": "2026-07-26",
+      "article_type": "Industry news",
+      "material_type": "graphene",
+      "verticals": [
+        "Semiconductor applications",
+        "Sensors"
+      ],
+      "themes": [
+        "Research"
+      ],
+      "companies": [],
+      "confidence": 0.85,
+      "duplicate_cluster_id": "cl_bcd4577f7acd023b6d",
+      "featured": false,
+      "id": "art_bcd4577f7acd023b6d"
+    },
+    {
+      "canonical_url": "http://www.graphene.tv/20260726157024",
+      "source_urls": [
+        "http://www.graphene.tv/20260726157024"
+      ],
+      "source": "Graphene.tv",
+      "title_original": "氨基修饰石墨烯搭配铜颗粒增强树脂！减少石墨烯团聚降低传热阻力，碳纤维复合树脂力学、散热两项性能同步大幅提升",
+      "title_en": "Amino-Modified Graphene and Copper Particles Enhance Resin Composites for Superior Mechanical and Thermal Performance",
+      "excerpt_original": "实验结果表明，引入极性基团能够有效改善Gr与PPBESK树脂基体之间的界面相互作用和结合强度，从而显著提高复合材料的整体性能。0.2-NH₂优化复合材料的弯曲强度、压缩强度、拉伸强度和层间剪切强度（ILSS）以及面外热导率（λ）分别达到1516 MPa、890 MPa、1663 MPa、65 MPa和1.884 W/(…",
+      "summary_en": "Researchers have developed a carbon fiber composite resin enhanced with amino-modified graphene and copper particles to mitigate graphene agglomeration and reduce thermal resistance. Experimental results demonstrate significant simultaneous improvements in both mechanical strength, such as flexural and tensile strength, and out-of-plane thermal conductivity.",
+      "language": "zh",
+      "published_at": "2026-07-26",
+      "article_type": "Industry news",
+      "material_type": "graphene",
+      "verticals": [
+        "Thermal management",
+        "Composites and coatings"
+      ],
+      "themes": [
+        "Research"
+      ],
+      "companies": [],
+      "confidence": 0.85,
+      "duplicate_cluster_id": "cl_fa943355dfe68a81c2",
+      "featured": false,
+      "id": "art_fa943355dfe68a81c2"
+    },
+    {
+      "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzBqLUwzVExxdHdlLUZZQk0tSUxEQ3FvYlJPclZGZ0E1NkF5YmExY2pBdEVDY1RISUFpbUtKMkJzU2NJNDNGRTNMNjBQa001SWVfaXdhZ0RwcnRuaTUtcVBHdlZHSmdBdGVPWVVCamdPVGFHTW9qYTlPZUctSDA2dklud3J6eEcxYjMtMXV3WGI3QjdOSEdFaHZqQUlvYUt3VEs1NXA2TQ?oc=5",
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzBqLUwzVExxdHdlLUZZQk0tSUxEQ3FvYlJPclZGZ0E1NkF5YmExY2pBdEVDY1RISUFpbUtKMkJzU2NJNDNGRTNMNjBQa001SWVfaXdhZ0RwcnRuaTUtcVBHdlZHSmdBdGVPWVVCamdPVGFHTW9qYTlPZUctSDA2dklud3J6eEcxYjMtMXV3WGI3QjdOSEdFaHZqQUlvYUt3VEs1NXA2TQ?oc=5"
+      ],
+      "source": "Google News",
+      "title_original": "Lyten's graphene-enhanced filament to be integrated into Modovolo's transportable 3D printing platform - Graphene-Info",
+      "title_en": "Lyten's Graphene-Enhanced Filament Integrated into Modovolo's 3D Printing Platform",
+      "excerpt_original": "Lyten's graphene-enhanced filament to be integrated into Modovolo's transportable 3D printing platform Graphene-Info",
+      "summary_en": "Lyten has announced a partnership with Modovolo to integrate its graphene-enhanced filament into Modovolo's transportable 3D printing platform. This collaboration aims to leverage the enhanced mechanical and thermal properties of graphene-based materials for advanced additive manufacturing applications. The integration highlights ongoing commercial efforts to introduce functionalized nanomaterials into portable industrial hardware.",
       "language": "en",
+      "published_at": "2026-07-26",
+      "article_type": "Industry news",
+      "material_type": "graphene",
+      "verticals": [
+        "Composites and coatings"
+      ],
+      "themes": [
+        "Partnerships",
+        "Commercialization"
+      ],
+      "companies": [
+        "Lyten"
+      ],
+      "confidence": 0.85,
+      "duplicate_cluster_id": "cl_7e1f1c0404becf5ff0",
+      "featured": true,
+      "id": "art_7e1f1c0404becf5ff0"
+    },
+    {
+      "canonical_url": "http://www.graphene.tv/20260726157016",
+      "source_urls": [
+        "http://www.graphene.tv/20260726157016"
+      ],
+      "source": "Graphene.tv",
+      "title_original": "锚定“大抓项目”鲜明导向 党建联建赋能重大项目“加速度”",
+      "title_en": "Party-Building Alliance Accelerates Key Projects Including Yangtze River Delta Graphene Center",
+      "excerpt_original": "首批纳入试点的20个项目，大多为当前全市范围推进难度大、投资金额高、涉及主体多的重大项目，既包括金七门核电项目、清溪水库项目等重大基础工程设施项目，也包括智能汽车产业园项目、长三角石墨烯产业联合创新中心项目、中海石油大榭石化五期项目等事关制造业转型升级的产业项目。",
+      "summary_en": "A pilot initiative in China is leveraging party-building joint construction to accelerate 20 major regional projects across infrastructure and manufacturing. Key industrial projects in the cohort include the Yangtze River Delta Graphene Industry Joint Innovation Center alongside automotive and petrochemical developments.",
+      "language": "zh",
+      "published_at": "2026-07-26",
+      "article_type": "Industry news",
+      "material_type": "graphene",
+      "verticals": [
+        "Other — Innovation centers and regional manufacturing"
+      ],
+      "themes": [
+        "Facilities",
+        "Partnerships"
+      ],
+      "companies": [],
+      "confidence": 0.55,
+      "duplicate_cluster_id": "cl_98367b7a147c03a2e7",
+      "featured": false,
+      "id": "art_98367b7a147c03a2e7"
+    },
+    {
+      "canonical_url": "http://www.graphene.tv/20260725156999",
+      "source_urls": [
+        "http://www.graphene.tv/20260725156999"
+      ],
+      "source": "Graphene.tv",
+      "title_original": "ACS Sensors：用于高灵敏度气体检测与光电恢复的钯（Pd）功能化石墨烯栅极GaN HEMT",
+      "title_en": "ACS Sensors: Palladium-Functionalized Graphene Gate GaN HEMT for High-Sensitivity Gas Detection and Optoelectronic Recovery",
+      "excerpt_original": "本工作报道了一种混合维异质结构，该结构将钯（Pd）纳米岛和石墨烯栅极集成在AlGaN/GaN高电子迁移率晶体管（HEMT）上。这种架构有效规避了屏蔽效应，使得表面吸附过程能够高效调控底层的二维电子气。实验表明，可见光照射可诱导NO2快速解吸，从而实现室温下的器件运行，且恢复时间仅需约7秒。",
+      "summary_en": "Researchers have developed a hybrid-dimensional heterostructure integrating palladium nanoislands and a graphene gate on an AlGaN/GaN high electron mobility transistor (HEMT) for advanced gas sensing. The architecture avoids screening effects to efficiently modulate the underlying two-dimensional electron gas for room-temperature NO2 detection. Furthermore, visible light illumination induces rapid desorption, achieving a recovery time of approximately seven seconds.",
+      "language": "zh",
       "published_at": "2026-07-25",
-      "article_type": "Industry news",
+      "article_type": "Academic research",
       "material_type": "graphene",
-      "verticals": ["Defense and dual-use"],
-      "themes": ["Regulation", "Facilities"],
-      "companies": ["HydroGraph Clean Power"],
-      "confidence": 0.94,
-      "duplicate_cluster_id": "cl_hydrograph_critical_20260725",
-      "featured": true
+      "verticals": [
+        "Sensors",
+        "Semiconductor applications"
+      ],
+      "themes": [
+        "Research"
+      ],
+      "companies": [],
+      "confidence": 0.95,
+      "duplicate_cluster_id": "cl_e8a78362f8a9b6bfab",
+      "featured": false,
+      "id": "art_e8a78362f8a9b6bfab"
     },
     {
-      "id": "art_mackenzie_textiles_20260725",
-      "canonical_url": "https://www.graphene-info.com/mackenzie-fly-fishing-reports-tick-repellent-properties-graphene-infused",
-      "source_urls": ["https://www.graphene-info.com/mackenzie-fly-fishing-reports-tick-repellent-properties-graphene-infused"],
-      "source": "Graphene-Info",
-      "title_original": "Mackenzie Fly Fishing reports tick-repellent properties in graphene-infused clothing range",
-      "title_en": "Mackenzie reports a functional textile benefit from graphene-infused clothing",
-      "excerpt_original": "The company says an outdoor test led to the discovery of tick-repellent behavior without chemical treatment.",
-      "summary_en": "Mackenzie Fly Fishing launched graphene-infused clothing that it says repels ticks without a chemical treatment. The claim is commercially interesting for outdoor and protective textiles, but independent test details were not provided in the source and require follow-up.",
-      "language": "en",
-      "published_at": "2026-07-25",
-      "article_type": "Industry news",
-      "material_type": "graphene",
-      "verticals": ["Composites and coatings", "Defense and dual-use"],
-      "themes": ["Commercialization"],
-      "companies": ["Mackenzie Fly Fishing"],
-      "confidence": 0.68,
-      "duplicate_cluster_id": "cl_mackenzie_textiles_20260725",
-      "featured": false
-    },
-    {
-      "id": "art_volt_tensorone_20260724",
-      "canonical_url": "https://www.graphene-info.com/volt-carbon-and-tensorone-test-graphene-enhanced-lithium-metal-batteries",
-      "source_urls": ["https://www.graphene-info.com/volt-carbon-and-tensorone-test-graphene-enhanced-lithium-metal-batteries"],
-      "source": "Graphene-Info",
-      "title_original": "Volt Carbon and TensorOne to test graphene-enhanced lithium metal batteries on autonomous drones",
-      "title_en": "Volt Carbon battery technology enters autonomous drone evaluation",
-      "excerpt_original": "The parties plan engineering validation, laboratory and flight testing, manufacturing evaluation and commercialization work.",
-      "summary_en": "Volt Carbon, Solid Ultrabattery and TensorOne agreed to evaluate graphene-enhanced lithium-metal batteries for autonomous and counter-UAS platforms. The work includes flight testing and manufacturing assessment, making this a direct defense qualification signal rather than an early laboratory collaboration.",
-      "language": "en",
-      "published_at": "2026-07-24",
-      "article_type": "Industry news",
-      "material_type": "graphene",
-      "verticals": ["Defense and dual-use", "Energy storage"],
-      "themes": ["Partnerships", "Commercialization"],
-      "companies": ["Volt Carbon Technologies", "Solid Ultrabattery", "TensorOne"],
-      "confidence": 0.96,
-      "duplicate_cluster_id": "cl_volt_tensorone_20260724",
-      "featured": true
-    },
-    {
-      "id": "art_adisyn_patent_20260724",
-      "canonical_url": "https://www.graphene-info.com/adisyn-reports-verified-graphene-deposition-repeatability-and-us-patent",
-      "source_urls": ["https://www.graphene-info.com/adisyn-reports-verified-graphene-deposition-repeatability-and-us-patent"],
-      "source": "Graphene-Info",
-      "title_original": "Adisyn reports verified graphene deposition repeatability and a US patent allowance",
-      "title_en": "Adisyn pairs repeatable sub-300°C deposition with a US patent allowance",
-      "excerpt_original": "Continuous graphene formation on copper was independently verified using an industrial ALD system below 300°C.",
-      "summary_en": "Adisyn reported independent verification of repeatable graphene deposition through subsidiary 2D Generation, alongside a US patent allowance covering core coating technology. The below-300°C process is aimed at compatibility with semiconductor manufacturing thermal limits.",
-      "language": "en",
-      "published_at": "2026-07-24",
-      "article_type": "Patent news",
-      "material_type": "graphene",
-      "verticals": ["Semiconductor applications", "Defense and dual-use"],
-      "themes": ["Patents", "Commercialization"],
-      "companies": ["Adisyn", "2D Generation"],
-      "confidence": 0.97,
-      "duplicate_cluster_id": "cl_adisyn_patent_20260724",
-      "featured": true
-    },
-    {
-      "id": "art_mxene_hydrogen_20260724",
-      "canonical_url": "https://rgu-repository.worktribe.com/output/3469319",
-      "source_urls": ["https://rgu-repository.worktribe.com/output/3469319"],
-      "source": "Robert Gordon University repository",
-      "title_original": "Interfacial nano-engineering of MXene-enhanced carbon fiber composites for safer type V hydrogen tanks",
-      "title_en": "MXene-enhanced composites target safer linerless hydrogen tanks",
-      "excerpt_original": "The work evaluates MXene-enhanced carbon-fiber/epoxy composites across mechanical, thermal and gas-barrier performance.",
-      "summary_en": "Researchers evaluated MXene-enhanced carbon-fiber composites for Type V hydrogen pressure vessels, combining experimental characterization with finite-element modelling. The work represents a non-graphene competitive route for multifunctional structural, barrier and thermal performance.",
+      "canonical_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFQ4c2c1Z1FFRDZhdkh2N0JkUnE4eHBhNnlqWDlJVkc0em4wQ3gwSWxuN1BCSFVFUUpoQmc5YXZ5dWlrYlM5N1B0aWlTX2FQU1ZrcFlCYlkyZFVuOExQR0RMT1ZHd2piczBBNE53Rm5qT1F5N0h6OTZTaTRCWmZDRWRPRWdKd2s?oc=5",
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcFQ4c2c1Z1FFRDZhdkh2N0JkUnE4eHBhNnlqWDlJVkc0em4wQ3gwSWxuN1BCSFVFUUpoQmc5YXZ5dWlrYlM5N1B0aWlTX2FQU1ZrcFlCYlkyZFVuOExQR0RMT1ZHd2piczBBNE53Rm5qT1F5N0h6OTZTaTRCWmZDRWRPRWdKd2s?oc=5"
+      ],
+      "source": "Google News",
+      "title_original": "China: Scientists achieve data storage using a single electron, via a graphene chip - Interesting Engineering",
+      "title_en": "Chinese Scientists Achieve Single-Electron Data Storage Using a Graphene Chip",
+      "excerpt_original": "China: Scientists achieve data storage using a single electron, via a graphene chip Interesting Engineering",
+      "summary_en": "Researchers in China have successfully demonstrated data storage using a single electron on a graphene-based chip. This technical breakthrough highlights the potential of graphene in advanced semiconductor applications and next-generation electronic devices. The development marks a significant step forward in utilizing nanomaterials for ultra-dense and low-power data storage architectures.",
       "language": "en",
       "published_at": "2026-07-24",
       "article_type": "Academic research",
-      "material_type": "non-graphene",
-      "verticals": ["Defense and dual-use", "Composites and coatings", "Thermal management"],
-      "themes": ["Research"],
+      "material_type": "graphene",
+      "verticals": [
+        "Semiconductor applications"
+      ],
+      "themes": [
+        "Research"
+      ],
       "companies": [],
-      "confidence": 0.88,
-      "duplicate_cluster_id": "cl_mxene_hydrogen_20260724",
-      "featured": true
+      "confidence": 0.85,
+      "duplicate_cluster_id": "cl_f0159c8a1228502b13",
+      "featured": true,
+      "id": "art_f0159c8a1228502b13"
     },
     {
-      "id": "art_bn_battery_20260723",
-      "canonical_url": "https://www.the-innovation.org/article/doi/10.59717/j.xinn-energy.2026.100182",
-      "source_urls": ["https://www.the-innovation.org/article/doi/10.59717/j.xinn-energy.2026.100182"],
-      "source": "The Innovation Energy",
-      "title_original": "Air-cooled battery thermal management system integrated with bionic shark structures based on PEG1500/EG/BN/TPE flexible composite",
-      "title_en": "Boron-nitride phase-change composite advances flexible battery thermal management",
-      "excerpt_original": "The system combines an air-cooled architecture, bionic flow structures and a flexible boron-nitride phase-change composite.",
-      "summary_en": "A battery thermal-management design published July 23 combines bionic air-flow structures with a flexible boron-nitride phase-change composite. It is a direct non-graphene benchmark for electrically insulating heat spreading and temperature buffering.",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JTUVdvS09hRnBFelhtalNuSmstTEpDelhSc2U2bTdKUExPcUlVNmlscm1nT1Y1ZkZDVTJNTU0tb0c5dnZUQ1M3RDB5T19YMHd2LUM0bFlNdmNyT29xLWE4THFld3I4RFdpcFBBcGNibVBpTU10aG4yMmFYY1g4bUdlOW42dkpwNWZ3cElWU0x1b3JqWTh1VHM1SFpTdEpqYzYyY9IBqgFBVV95cUxNWUxRMEt4YmszcjhFZy02bkZUcWVqc0ZENFZpdEs4ZTZNOWZsS250VGd0QmEzOWF1aGdIdF9QZ2xGSEtWc0Y5dUJjR1luWENmV05JdEI4cUFQSTJzQzJoanFkb1JyeWhRb0czS2lkaFAzdmZRbHZTenJMRU10QjdFclFOU3YyQV9XWkFhUHlmM1VWQlpyczV0T3hoZzRzaHFRYkdsMU5hcHZ6dw?oc=5",
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2JTUVdvS09hRnBFelhtalNuSmstTEpDelhSc2U2bTdKUExPcUlVNmlscm1nT1Y1ZkZDVTJNTU0tb0c5dnZUQ1M3RDB5T19YMHd2LUM0bFlNdmNyT29xLWE4THFld3I4RFdpcFBBcGNibVBpTU10aG4yMmFYY1g4bUdlOW42dkpwNWZ3cElWU0x1b3JqWTh1VHM1SFpTdEpqYzYyY9IBqgFBVV95cUxNWUxRMEt4YmszcjhFZy02bkZUcWVqc0ZENFZpdEs4ZTZNOWZsS250VGd0QmEzOWF1aGdIdF9QZ2xGSEtWc0Y5dUJjR1luWENmV05JdEI4cUFQSTJzQzJoanFkb1JyeWhRb0czS2lkaFAzdmZRbHZTenJMRU10QjdFclFOU3YyQV9XWkFhUHlmM1VWQlpyczV0T3hoZzRzaHFRYkdsMU5hcHZ6dw?oc=5"
+      ],
+      "source": "Google News",
+      "title_original": "Lyten to supply 3D Graphene filament for Modovolo’s BFP printing platform - VoxelMatters",
+      "title_en": "Lyten to supply 3D Graphene filament for Modovolo’s BFP printing platform",
+      "excerpt_original": "Lyten to supply 3D Graphene filament for Modovolo’s BFP printing platform VoxelMatters",
+      "summary_en": "Lyten has announced a supply agreement to provide its 3D Graphene filament for Modovolo's BFP printing platform. This partnership aims to integrate advanced graphene materials into manufacturing processes to enhance structural performance. The collaboration highlights ongoing commercial adoption of graphene-enhanced filaments in additive manufacturing applications.",
+      "language": "en",
+      "published_at": "2026-07-24",
+      "article_type": "Industry news",
+      "material_type": "graphene",
+      "verticals": [
+        "Composites and coatings"
+      ],
+      "themes": [
+        "Partnerships",
+        "Commercialization"
+      ],
+      "companies": [
+        "Lyten"
+      ],
+      "confidence": 0.85,
+      "duplicate_cluster_id": "cl_3b0ab762217c38be4c",
+      "featured": true,
+      "id": "art_3b0ab762217c38be4c"
+    },
+    {
+      "canonical_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQa050dllQZTZhLVFwXzZfc0wxNWd6Tkw1eWpBNVZXMDZxZGtHN3doSVgxUzlEUnBiaEd2RHVlZklzVVNKcTV1UEh3OGE1TGtEY29Wb3JiSnlmM3RmSWxUcU1yRFFuNldmRjFXYXJGZ3pLX0lidW9GMEZyOWN5U3Z1SjE4VzR6SzJlTVZFekh4WTNZbmljSFBETnFRVS1xTmdIclRsSU1adkVFclp6Ylg2UGRqX3VXNnQ4MFFxeWJxVWV2NkJjREtrN0NYZHBwNGc4RUI1Rkt3cHVVajFmdEhkeXRTX29JbkdWNlBscS1rNFdCTWZ2RDFSRjFn?oc=5",
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQa050dllQZTZhLVFwXzZfc0wxNWd6Tkw1eWpBNVZXMDZxZGtHN3doSVgxUzlEUnBiaEd2RHVlZklzVVNKcTV1UEh3OGE1TGtEY29Wb3JiSnlmM3RmSWxUcU1yRFFuNldmRjFXYXJGZ3pLX0lidW9GMEZyOWN5U3Z1SjE4VzR6SzJlTVZFekh4WTNZbmljSFBETnFRVS1xTmdIclRsSU1adkVFclp6Ylg2UGRqX3VXNnQ4MFFxeWJxVWV2NkJjREtrN0NYZHBwNGc4RUI1Rkt3cHVVajFmdEhkeXRTX29JbkdWNlBscS1rNFdCTWZ2RDFSRjFn?oc=5"
+      ],
+      "source": "Google News",
+      "title_original": "Portugal is developing a graphene-based stealth material that could hide planes and drones from radar as defense powers watch - Vozpopuli",
+      "title_en": "Portugal develops graphene-based stealth material for aircraft and drones",
+      "excerpt_original": "Portugal is developing a graphene-based stealth material that could hide planes and drones from radar as defense powers watch Vozpopuli",
+      "summary_en": "Portugal is advancing the development of a graphene-based stealth material designed to shield military aircraft and drones from radar detection. This innovation highlights the growing interest of defense powers in utilizing nanomaterials for advanced counter-surveillance applications. The project marks a significant step forward in integrating graphene into aerospace defense technologies.",
+      "language": "en",
+      "published_at": "2026-07-24",
+      "article_type": "Industry news",
+      "material_type": "graphene",
+      "verticals": [
+        "Defense and dual-use",
+        "Composites and coatings"
+      ],
+      "themes": [
+        "Research",
+        "Commercialization"
+      ],
+      "companies": [],
+      "confidence": 0.8,
+      "duplicate_cluster_id": "cl_e1a56f083c8da8b1e3",
+      "featured": true,
+      "id": "art_e1a56f083c8da8b1e3"
+    },
+    {
+      "canonical_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMnZ0ZGhfTGpBTGhRWGI4NDNadTNPN0RuNmt6bGttNmRVQWFMUDJnUHd4SnJUMmVnNEJVaVprNnVMcHBqUmQxTlRLaHpfa2xrc0dnczYzLVZSaXUyUy1WU0ppYy0yZ3BicHM5V1d1eEMxMUtaTlFKQV9Lb3dqT19aTHVOMEE?oc=5",
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMnZ0ZGhfTGpBTGhRWGI4NDNadTNPN0RuNmt6bGttNmRVQWFMUDJnUHd4SnJUMmVnNEJVaVprNnVMcHBqUmQxTlRLaHpfa2xrc0dnczYzLVZSaXUyUy1WU0ppYy0yZ3BicHM5V1d1eEMxMUtaTlFKQV9Lb3dqT19aTHVOMEE?oc=5"
+      ],
+      "source": "Google News",
+      "title_original": "Striped or checkered? Magnetic field influences competing electronic patterns in a graphene-like quantum material - Phys.org",
+      "title_en": "Magnetic Field Influences Competing Electronic Patterns in Graphene-Like Quantum Material",
+      "excerpt_original": "Striped or checkered? Magnetic field influences competing electronic patterns in a graphene-like quantum material Phys.org",
+      "summary_en": "Researchers at Phys.org explored how magnetic fields influence competing striped versus checkered electronic patterns in a graphene-like quantum material. The study sheds light on the fundamental electronic behaviors and phase competitions within novel 2D material structures. Such findings contribute to a deeper understanding of quantum properties relevant to advanced electronic applications.",
       "language": "en",
       "published_at": "2026-07-23",
       "article_type": "Academic research",
-      "material_type": "non-graphene",
-      "verticals": ["Thermal management", "Energy storage"],
-      "themes": ["Research"],
+      "material_type": "graphene",
+      "verticals": [
+        "Semiconductor applications"
+      ],
+      "themes": [
+        "Research"
+      ],
       "companies": [],
-      "confidence": 0.91,
-      "duplicate_cluster_id": "cl_bn_battery_20260723",
-      "featured": false
+      "confidence": 0.85,
+      "duplicate_cluster_id": "cl_f65af529210734f0db",
+      "featured": false,
+      "id": "art_f65af529210734f0db"
     },
     {
-      "id": "art_graphene_biosensor_20260723",
-      "canonical_url": "https://www.graphene-info.com/graphene-transistor-integrated-insect-olfactory-receptor-enables-selective",
-      "source_urls": ["https://www.graphene-info.com/graphene-transistor-integrated-insect-olfactory-receptor-enables-selective"],
-      "source": "Graphene-Info",
-      "title_original": "Graphene transistor integrated with insect olfactory receptor enables selective detection of small organic compounds",
-      "title_en": "Graphene transistor and insect receptor form a selective organic-compound sensor",
-      "excerpt_original": "The team screened 6,655 wafer-scale graphene transistor devices before integrating a stable insect olfactory receptor.",
-      "summary_en": "A UC San Diego-led team combined an insect olfactory receptor with a liquid-gated graphene field-effect transistor. The large device-screening dataset and receptor stability make the work notable for moving bioelectronic sensing toward repeatable device fabrication.",
+      "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlgtZEk2aFBUNHFmT3c4VFF4dk4wUHhaVU9YbnYybDBRSjJpTlB6THA4WHFLXzdXT0RyNDNMbGs5a2VOb0M3QnNTSmpPYmQxVUJ6YkR6VkRScUJrLTlITlloTlVEV2RjZFlPWG5qc0U0WUx6LUZPNnlEVEkwWW1CLUZhOVdndk5fVlpBR0lqZnFKWmJ4UmU3cXdkcFJZbk9HelBFMGF3?oc=5",
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlgtZEk2aFBUNHFmT3c4VFF4dk4wUHhaVU9YbnYybDBRSjJpTlB6THA4WHFLXzdXT0RyNDNMbGs5a2VOb0M3QnNTSmpPYmQxVUJ6YkR6VkRScUJrLTlITlloTlVEV2RjZFlPWG5qc0U0WUx6LUZPNnlEVEkwWW1CLUZhOVdndk5fVlpBR0lqZnFKWmJ4UmU3cXdkcFJZbk9HelBFMGF3?oc=5"
+      ],
+      "source": "Google News",
+      "title_original": "HydroGraph Provides Update on Expanded U.S. Federal Government and Defense Focus, Calls for Graphene to Be Designated a Critical Material - Yahoo Finance",
+      "title_en": "HydroGraph Expands U.S. Federal and Defense Focus and Advocates for Graphene Critical Material Designation",
+      "excerpt_original": "HydroGraph Provides Update on Expanded U.S. Federal Government and Defense Focus, Calls for Graphene to Be Designated a Critical Material Yahoo Finance",
+      "summary_en": "HydroGraph Clean Power has provided an update on its strategic expansion into the U.S. federal government and defense sectors. Additionally, the company is actively calling for graphene to be officially designated as a critical material to support domestic supply chain security and industrial development.",
       "language": "en",
       "published_at": "2026-07-23",
-      "article_type": "Academic research",
+      "article_type": "Industry news",
       "material_type": "graphene",
-      "verticals": ["Sensors", "Semiconductor applications", "Biomedical"],
-      "themes": ["Research"],
-      "companies": [],
-      "confidence": 0.94,
-      "duplicate_cluster_id": "cl_graphene_biosensor_20260723",
-      "featured": true
+      "verticals": [
+        "Defense and dual-use"
+      ],
+      "themes": [
+        "Commercialization",
+        "Regulation"
+      ],
+      "companies": [
+        "HydroGraph Clean Power"
+      ],
+      "confidence": 0.85,
+      "duplicate_cluster_id": "cl_d7dcbefd1d03be8789",
+      "featured": false,
+      "id": "art_d7dcbefd1d03be8789"
+    },
+    {
+      "canonical_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPamd0R0NBc0JUTkNFbjBUUFhGd3NlSE1qc1d2alpxY1JzWWVDd1lEcVRMRjV3clBDZFRsSnljYVA3SlhQVDVFckZxcFFEVGhUR1p0V09QQS1VUVhMOVU0VG5ZdWNvdHMzOUg4WXgzZlN5N2JCMDZITVNtZEZEM1FZbjhpbUdfX1dSQWV5VnByVjdyM3ZoVDQxZkJqcGl0ekVnZC0wYllabHB0QnJRNDY3N0pMWGFoTE9IbUxMRU1vdGdLU0hWcm1CSkZIZEUzNUc0aDZTY0NkY1lIbjFMcmJqQUFkZW9iSXVLSXkteW9EZzg4d0FEMERaU3RKOTE2LXBmZ1p0QWxoU1o?oc=5",
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPamd0R0NBc0JUTkNFbjBUUFhGd3NlSE1qc1d2alpxY1JzWWVDd1lEcVRMRjV3clBDZFRsSnljYVA3SlhQVDVFckZxcFFEVGhUR1p0V09QQS1VUVhMOVU0VG5ZdWNvdHMzOUg4WXgzZlN5N2JCMDZITVNtZEZEM1FZbjhpbUdfX1dSQWV5VnByVjdyM3ZoVDQxZkJqcGl0ekVnZC0wYllabHB0QnJRNDY3N0pMWGFoTE9IbUxMRU1vdGdLU0hWcm1CSkZIZEUzNUc0aDZTY0NkY1lIbjFMcmJqQUFkZW9iSXVLSXkteW9EZzg4d0FEMERaU3RKOTE2LXBmZ1p0QWxoU1o?oc=5"
+      ],
+      "source": "Google News",
+      "title_original": "Volt Carbon, Solid Ultrabattery and TensorOne Enter Strategic Collaboration to Advance Next-Generation Autonomous Aircraft Technologies - TMX Newsfile",
+      "title_en": "Volt Carbon, Solid Ultrabattery and TensorOne Partner for Autonomous Aircraft",
+      "excerpt_original": "Volt Carbon, Solid Ultrabattery and TensorOne Enter Strategic Collaboration to Advance Next-Generation Autonomous Aircraft Technologies TMX Newsfile",
+      "summary_en": "Volt Carbon Technologies, Solid Ultrabattery, and TensorOne have entered into a strategic collaboration to develop next-generation technologies for autonomous aircraft. The partnership aims to leverage their respective expertise to advance energy storage and aerospace applications.",
+      "language": "en",
+      "published_at": "2026-07-23",
+      "article_type": "Industry news",
+      "material_type": "graphene",
+      "verticals": [
+        "Defense and dual-use",
+        "Energy storage"
+      ],
+      "themes": [
+        "Partnerships",
+        "Commercialization"
+      ],
+      "companies": [
+        "Volt Carbon Technologies",
+        "Solid Ultrabattery"
+      ],
+      "confidence": 0.85,
+      "duplicate_cluster_id": "cl_dc6adfd557b44f9ea2",
+      "featured": true,
+      "id": "art_dc6adfd557b44f9ea2"
+    },
+    {
+      "canonical_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFhDR21XM1FLV2EyOHd5eURZVm5zblkyajZDa2dJMUk1OFgzYWFOaVkzc3JBUEZmRkpFVXMwdnFXeVhELXVwZFl5RXdYVkdYQWhYVUxmT21KbmVMR0ZVSnNibEJmS3dSUkw2TnV6R0NoSWg3cVZfa01jd2lIb2VQRnMwWDBVdGVUbmZ2QWxhcUwtOWlf?oc=5",
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFhDR21XM1FLV2EyOHd5eURZVm5zblkyajZDa2dJMUk1OFgzYWFOaVkzc3JBUEZmRkpFVXMwdnFXeVhELXVwZFl5RXdYVkdYQWhYVUxmT21KbmVMR0ZVSnNibEJmS3dSUkw2TnV6R0NoSWg3cVZfa01jd2lIb2VQRnMwWDBVdGVUbmZ2QWxhcUwtOWlf?oc=5"
+      ],
+      "source": "Google News",
+      "title_original": "Zentek secures US commercial pathway for graphene-enhanced air filtration media - Cleanroom Technology",
+      "title_en": "Zentek Secures US Commercial Pathway for Graphene-Enhanced Air Filtration Media",
+      "excerpt_original": "Zentek secures US commercial pathway for graphene-enhanced air filtration media Cleanroom Technology",
+      "summary_en": "Zentek has achieved a regulatory and commercial milestone by securing a pathway to the United States market for its graphene-enhanced air filtration media. This development marks a significant step forward in the commercialization of the company's proprietary nanomaterial technology for cleanroom and protective applications. The expansion into the US market is expected to drive broader adoption of their filtration solutions.",
+      "language": "en",
+      "published_at": "2026-07-21",
+      "article_type": "Industry news",
+      "material_type": "graphene",
+      "verticals": [
+        "Air/water filtration and separation"
+      ],
+      "themes": [
+        "Commercialization",
+        "Regulation"
+      ],
+      "companies": [
+        "Zentek"
+      ],
+      "confidence": 0.9,
+      "duplicate_cluster_id": "cl_e8a6b4f50f95267055",
+      "featured": true,
+      "id": "art_e8a6b4f50f95267055"
     }
-  ]
+  ],
+  "run_metadata": {
+    "ai_provider": "gemini",
+    "ai_enabled": true,
+    "ai_requests": 20,
+    "ai_estimated_cost_usd": 0.027192,
+    "candidate_count": 350,
+    "deduplicated_candidate_count": 258,
+    "published_count": 12,
+    "rejected": [
+      {
+        "url": "http://www.graphene.tv/20260726157038",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "http://www.graphene.tv/20260725157014",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "http://www.graphene.tv/20260725157035",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "http://www.graphene.tv/20260725157040",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkhmXzNDRUhHNUtsYUFwQUNCTXhWT2lOak1EYkQ3MS1BSzNEaS1NWk5tc3NwUWl5S1VfTnhEd05DZWk3a1ZiVlBweHUyZ1p5MFZvdENMN1RDRU5JTzFtN3NNcDQtaEM1NkRGZjhqMzVUbFFMeGluclM1aTBaZ2IzLVRkQjUxY0VFUHg4?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUVlsbXFFMk9McDZwRFloMVlkbUZyajh2OGZaUHZFUldlRzJDdlVRVnJPSGd3bXIyZnM2UjU1ck1RdWNoQ21udFdodGJTcGJzTG10dVVqTjRJeVMtblBMWHNyN2VkeHQzWGJzYzNfTzB0SFVJdFpUTDhZYUZPeWVBdl9JamRvUmZSUmNlbG8wTkszTU5kQms2MjE1c0hCRm5jZ003SnBMRVJUdkYySDc3bVBpcHVhWGdkZDk0MWtiaWFicTAwbWRjUTNORWFZOVdOZmM0Y05kWG1mb2J4Uld5bFJjMWktTVQxWUxfamw2Z1A?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kMGJVcGxvekpLelNXb3ptZGU1SHc1eUYtaG9SN1NQWEFoQ3VYTk90YnB6TTRSWWQ2aUd2ajR1THktRWpIUl9VZDJSdmpHeV90OS1LTnpoaFRVRFMzSVlPazlDczVGbTNxRW9kaWk3eTNNQUZ6dGUxYmpDYmk?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2QwLXB0RHduVzhvVmZHVXVyOVlzWHZJYU9IYVlQVk1Gd09LX2JHRnNFaGQxT282N1l6Q2NydEItNWZ0V1V3ZUxMZExFQTJmNEJPRXBvWVVwUThzSmlxUGdkNGxpcGoxcDlsUk5qRkVwMHp6Zi04Tmk5c2hqbVhtTDN0N2NmVVBmdENGb002SW5nYi1KUndDczhOX05fN1VXb2ZEOE5VNlhXa09BQ3RXLTJuNE02UGF5RVRFXzJtUDlXR1E?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXQ0V080OWNnQkQxZ1pOOVhiS3FfVmJSNzVyaVl0LUstYnlBVkViY0hqWGpveXpQcHBwYWRjYU4talE5amN3S3JsZGlQV28yRTBxTFE1Yl9UTkVGMkNhbUwxX1l0TTh5bU13SV9feHd6dmFiNXRWNnNrNXRxWnotNEg5dkxlVGNfalpRU2dxVV9QZ3dDeHBOVnNmc3NoM1Ztd3lCakdJOWhrN2FyUHJzR2RyUVVrenBM?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSXdXNDRLU1JVdkVuM3ZqVno3RV9MV2dUNzRDdkd0VzltdzRGSnptV1d2d2U5Y01hejE1WUI1TlRBNk5CMXZ2bjNjZ2lVck9vZ1MwdGkxLWh6eGpoeTR1SUVzWHRmczVCYWdVbms0RWp5RDVZX2l5azJWcFVCd2ZscHR3aHhQSzVnODBkbDk3VDZXTlU4dDNrcTNyMUExclU?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzRib3NiVG14cUljTTBTbk9KZDJJTE5xbkQ5LTJkTHJQUUdlV0h2UEVlelRIM1pGekIzbjNJZG1nLW9KTFpwZXBxdVRQdDVOWHpJeXZTSzZfQS0wb3g5aWVBV3JyR3FKQ3hzdy1IejFsb2duOE95bTJMenlSUXF1dWx5UzAzVkNPSnhyTkdxQmFFYlVNclZqSkRXbGQ3VmdNM3FEOHd4STVoeGVXTjFfTWc5TThDU1ZmZG9VTFMzNnJ5YmZtVnN6VTY1T1hGamMtd3JyVXV30gHbAUFVX3lxTFBrOFI3eHpjU1RPTElpeThtdDNLbjNDU0xHaGVxT0Y0MmJwajdsX1JGSlU4RTVyMWVETnVHUVdEb0tQQThDSVZWRVl1dFJ0MkR6S0NPRmtWVVZvaWZ3bDNfWE9LcXloZXJjUmZ4Um5YVmFiMkQ3bDFEckR0Yk1nQXA5ZGxBY0ZmS2pHNzZqYVZBWFNvMzdTM3JRVUZGb3pDZW1NWVVBa0Nmd2x1VGxIZHZIVUVMRk01Z0FzczBJTkZQWWx6RG5UNVEtLVg5M2xSYUpZNFFEMWlCTXpTQQ?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qWUsyd1Q2NnhFNXdraW1nWGpYRE5lUm5IRzFkcE9oZ3I0RTNDVThZUG0yTWxEV3JQYlZ3MWo2SXVfYlhQZTBlNVV1MUZZNFQ2bHFFakRCT1lsTEMxQzF3MWhwS2doT2RXVFJNSTFkbTUxTlBX?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ2NyUldCc25TUlRpaDZkbktzbmhnYlY0RXlkZWVEQmVvR2tQYndYY2JhRktrOS0tcjlIMXpuRElHdUJhb3N1ZFFyTmRpVGdSZXZTeVctQ19RdUxuUzJTenZMYzBacEwyZlZueW5lUjNVSWp4SUVOUFpuMkkyNThvTkpvTHJTOUVXQkZCZXVJcnBNejQ5R040Qi1ETVNFeFp0UUZGLUx1M2czUy1IRWtTbWxrM2VxWHc0bWpNaXF6REdOWk8tZVBwbzg1OVRndDVmbVd4QzRtUdIB3AFBVV95cUxOekptdDRfbTZKS0MxUzhkcHRhd2JYMGZpOTE3SjJWX3JNRkNsUHV3cTdEdXU4Qmp2WEtGVXRkYThaVXBYVGctNU9raE9uaEJjM2lmMWQ0YkNKdno3Nm85X0dDN0lNR0VRc204RVdNVXg5enZUcmNWNktROUJYZjBsZFVvQXd4cmVhME5SU3B4RlJBakRMQUc1bmVCbmhNTlZsS0NWZW9aMjRtSEdfZ0ZyNmtYak4tejd0aVgxMXB3WUpGSDBmWmh1bUNiUGI3X24tWjlKM3FFMFhfYkVt?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVlB3WmxKUUtBU29kSklrWDFRejRlbzQ4VHVWZVJmMVpkWWsybnZvdUp0eFF5eVo4R0NFVlBoZjQ5aGYzSFplZnJOQk1EVnJpcXN2REdkMmlNaG5yNjlJSm1VelY1bmpMTGl2RC1Vb2o3emd5R182bm5ERnlyS3c2UUhTMlFIQU9hd3VpV21JRWFWUUE2N0NTMWJDcVdZUTdNakprdXlnYnNxOXFVaGlqNlFXeVZoWVMyVVJ0bHFvdkMxRlBDbS1QYnJkQ0FmeHQyb3ZDLUJKbnVFSFU?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU0pfaTNuZlZiTVJ2T2RBX0JHOENpdDhlX0pOY2ZTVlJ0blEwMm9vQm5NTjh3dm5MR2ZFdnRoTEtXV19CN0JnakZQelVtbS1maHlHMWJXMllsR1dGOUZVekNwYlF6U3JWdW5EUUptYnlYWmxlV2ZVV3VocVJYVlFLLUowVnJuMXlMZ3Jkalp4YVBJUHg5cXo0ZzZSbVIyMWhDdzBsdS1OS29iUGRMaEpBMXZ2bTEtRS1nQXNtYW1HSXprUkJ0NlMtTmNKYlIyWk9L?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYXp4U3FfdjZZUzFzRkxKT09JX0llM3AyS0d5WGk1c2Z1SmthNUlHV2JDNFBwaUFFa3ZhTG9xaUNnRm9KdnFuZHRPcm5ZRGZibUx1enVwSmVlLWNyN21aa3l1RmZ6dFZDaWF3djJSdnZxbWktZ3VwLXFLRU1pN0pWa3NJQ05oSFo5TG9aZWg1aHRNMGJXYngxX0J6Y0RKOUlhbWN1U3A3bXVOU1BuY1p2bFVfUG90eXhfY2FQeDY1SEQ3OHEtUURlQlNFbGNmOWhXeHRBcXR6VjBLTXhiOWpIUURlS2w?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV05yOERwaHpNTS0xNHFoX3lnXzZmMTNCdEcxYTBweFR2aG0zZzhFUnk0MXV0N1V4M25QNTdianNNOTVIN2R2V3FVOGRvSk80UFZFUTl4Y0tqRW9wamY1YnV5SVpCcFhLd1cwRzFfRFhYSFpUV1BZeGxSRHZPbDV6LVdaYXpBQWRwUHlUSkQtX25Mc2doN2xfMW1OQWItOTVFakYzRF9seUU5cGtGOWpka2xIbG0?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHBaTGlvbVI3ZDZqVGNOLWg4Z2hkNTNELUVia0lRVkZQd0NRWlhMY3BONmhOYWVYMkhNNFFqRHRNMEVoNV9nRlVwNGJBSkNIbS1Jd1ctckNES19mdERjQ3J1WHJEcVJrTkVKZ3VCZ3lyMVlteWM3RU9VTWRLejMzV1hnM2UwaUxVQWdDZHlVc1RlUGhjSkRZQlNzQXBRUGVEdHBBeVV2RXFlZw?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY1hoeHVUZHRkRElERk5NaWJXSTk0enZzVmRQSXltd0VuY2s0ODhDZW10bGF1aFZrc2loYUU1alZjazFZR2doU0I2MGs3Y2R0ckhsSm9fYlZYTWJLSm9ybjdWdF9ZTFJfTFl4Z00teUFBZ0g0WUhwT1B4RXpDYW4wS3BMUWhaRDZHbWhmMFdZeklhQVBoUGRFUVlFSnVyR0tzUHI0?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVFRMS1lld3hPTVZ2NmROem9reFRDSEptaExYaDdLX01CZ0pQVUowQm1rRFB4U2RPbGw5eFZIN1A5ZzExdnJjOThHajZ0Q01uUXRHY0FYN1VPakt6UzNwdWM0QldtcHEwUEhUZnBlcm45NjlNYnFzSjhERUExYW8xV2lqQmVxcnp6ZFBNSDFfMzRwa3hYMTNVMWxnVnprLVRnbTRtM0tvYklBcTg0Qi1NZURvcVhkOHZBRXRNZ1BwT0Q2WE5XR3hnMmRkNXZXVnp2aFZvX0lLQlZ6Y0F2NHRINDNR?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdm9zbXV2SDljWUJfS0pFYnJDS3d6eE1OOElzTUJWbF9oTFZ5WDl2UVFuU2VUZ0dxQnBudEhlbE03ZWhoNHRUVXFQYkR5VHoycDkxZ2txSjNMSzJQbTJRVXdkeHJQMlRZYkhoQzdiTndjSUZFMTlSbHd6VFlTLTFncXFxLXI3OWpoYlhNdnZVMk83YXo2SjExbklQZw?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWXVCWVgzT19NSV9xYjdLblhfMTRfUVc3TWZrdWhkTzA0d3ExalVicFBwakVSNmF5bVlmbHhvOFhrQlV2ck81b0RrcEhyeFJIR1BEaHBsV2hZV1hSS1AwUXh6SE8zbk5Fa1VJckdWdlBZc3IxZWtjUkxpak96M29oY3ltX1l0SU1vbXMxOS1fdXF4a3RsY3VFSkJKZTM5UTRvUVZIMEdNWFFLRTFsNFBmeU1kMWZPb1pB?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPaGRFeEF3SVlMeUdHVGZ0WjdZa0pSZ2pVNGN0WXpVV1RKLUlfZFBpVjVSaHdmMWZxNDQ4QWN3czFHZzJMSFE3TXltTWFUSF9kbmN3cElaN2lveXlDYzVENWc0c0tyc01OaVpfcVhoTlBCVGZRSl9abzVDN0FOcHIyXzdwQzFSbG1XSkdJT0kxdEx6Z3FHS0ZTUDRXS2xrRXVJVUY2ajhRTzV2ZzdLTmxsbUYtbW9fNTI5UHFiWjFIdHhnNTVxS2RCTThudDQ4ZWNxY1NBYndOV3VPNTFoQUpmRlN0NHozNVpLQ1BacVJ5d2RkRGRPT01lZFprNEt4RFBrZVk3VjFReDZ5YTIxVGEzQmNBeURwUGRVUFdGbGtZWld4QWR6aFE?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1BLTmhoemIwN3Zya0RReVB1Yi1wV3ZVTVpPaUtjNV81Q00tbm04Ulp3TWVMdzFXeVdzZ2V6d0Y4RVZITUc1d045Vmd3bl80QUdXUmtyUVVReW1aQmdCUVVmUUVNSlZWLWdXTkJKbGR5TmhxdjdzS1dRMVlYVS1iMTgwd1ZIM0lQQzFhUkpYTVY5N0lwZzFlZF9Mdmg3THdqRTQySjFLOWRaQ2hia1FGZ3ZBM0dUcUkxSFpMcV9ndVV0WkFRVzcxYlRXQUZIcEJOdGNR?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWxPanVpblBhSVdqYkM0V2V4SmxZR3g3VDRhZGZLQW85c3NSRDZYM0VzcEtCZk14WFZ6bl9NSXdVMThkXzlFVlFBejJPQjBEVGVWWGx3SUxFMU9uNmdaYm42Q1JIbjNEYzcxSUpZeEZUTW5ra2lycy00Z1JvNlBUckt4RWdLdm1HN3JBR1ZJcWdHbzNSTnNB?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdUNUdzRRcEFRUDRWRUxIcXplOUJwZGZkbHBrRVFQU0JpdF9QUllfWUpYZmtZYTR4N1RXT3BYMXBrTlM1Q2xwQTFwTi1kTG5tRFBpUGxFNHIzVWxKc3R1eVFya2drOFRIZXA1OFdVUlhDcjI3eTVicDFULXNma1NLcXMzWm8xWUhuWlVTUENaNFFyRVE?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdEo2Wm9LbWFFXzJDZGJhbGNfaVlDOHhpcmlOQTFVZFpjemlVTzRFMTVuRS1xblNmbUJPYjB0UWxzZENGY2NraHFrckt4bER2YTE5Q1BPOF9iMFk1WkExeU5LVHd5ckgwT3FrNVZvUmxCVllQcVVudUZoUkRfcGlkMldRUkpDTU1ZWkk1ZXVWNlNDS2NmYy1Qck9GcUp4bE0ycnRkN2dwZjRyVGV4ZGRnMi1hT1VNNk11TkZRbk5jdkxMVENXajdwSTVQOGRteHBlZ2tIWXpISjhvd08zSWw1elo3VzZjMFFTaFE?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNamdNU29SeC1xTlZ6ejNlXzJJVjJzTGoyM2pRZ01VRzU4SkJ2U3l2REZyQ0lJS1plaGd0THM5Z1RUczREYzI5dDI4S0ZOakZTUV9FZWFzZDlHbEJFdlBvTXdTNTFyNEpNYWs4UUltckpXc2l6UEdrTWNlN20yUHJUUFRscjI2aXBmMC1VUDIxcDRSeDVLSFBiMlBIdEhMMTZNY1FkaTFETmZrcHVnYkkyRk5vV0x0eVlRWXprTXNienVVbk01SVhXaTRn?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RejdrT1NYbmxuTnlzM2lSTkZFS1dmb1piM3o0U2I3NW9ERFNHS0MyeVhZbjZ4SDJ2X0dBRXlpa1VFdHA3cVF6WUNlc0EzdVlNTmhzOTMzRmdRdE5ScVdqMkZpWHVnaG5QbWlzZldKUGhKa2dtMXBnZkRwMl8?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3RCNU9rS1FDN0VTYk1Kb1o4VWRkMkt0dUxxYllYaGJGZVA0M25uYTlMazNpVFU4SGdJWW9OZy0ta1VlZUMxejNQT3lQMG0wVFVKbktWWnlFb3BzYnBTWDNVQk1VZnVTMDM4d19XVTVHY1pRMTMzemROSDZUTGVzZGdNUlJZMlZvaXh4THktaUYtTEFiVHNnRjcwV3g2aXZ5N0pIbg?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONm45U0pZcHhRcFN6bEJhMXpJM3pTNGd2R3B4VTMzd0NoWFFQR09udUxFOTFrcHN4OGxuZWVRSmNfYnIyeURxbV9fRkNvbG50ZUxna3lwR0FRUWpuak5Gb21jcm9CQ3ppZGtMczJXdGxEMGY4bmNQcmlJQ2liTW8zQ0tSZ0Q1WVd2dnFnaERYb2x5b0wxS1ROcDY5Y3ZCWDJFbnV5cWpYaWRjWGZLYW1hd0FvUXRZTTZGNG80MHp6cHJ5WUVONHQ4N0tEVGFQUE03cWVJZXEzc1A0Rms?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGx3NWZSWFVjZ2lSWVNINHluSVExcGlicTlLSVEyYjJCdXc2dVhETGtudnMwMEtySW9Bb3VpczYyU3lBcURISlNjcEl3VDl6ejFPbWEyZmFFSHB6SWdLQ2RhSl9GSEt4RTh4bk5kelpkQXRVSHlQc0h5WVo3ZUdDWUhrV3J6dnBxTXZkNlJ3bU1CZ2RpdW1JN0hPU19YMTUzZXdVWXFKTWJkaHc?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVNYbko3MVMtNUNFUk5PSmRLWGtvNFZPanhWU1hYOGFZdU04bElwYmxDWVgzRFJxbGhpWnhfNmFLMlZEcVZfcHdUelVqUDlMaHZwMTZSWG9VdHJoRTVRZzFDQVV4b3ZjUFZDakFQcElrSzFtcDVxbDJ3OVhXN0phcDBDRFNTbXFnbFFjX19XM2xHbkVpRmhSbk93bWM3VkNSSmNjcFJJTVp6VUdHQU8ycTBvbl9DRG8?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNUJfTzJqNkthNUVkekNwYWdBU01nanU4T2otUWo0VW1aZzFKZjZSaGRPQ1RkNGJObFcyQVU2SGg4SExLS0FOUmZRSlFOSS1rakc5Z24zaTU5Y3Fsd0Rhd3JEYWZpeWJFUTJLQXVQR0JRUWVodmVhbFpaZXJobHdzemNHZW1JbjhzMzBISFVtSzFtWXIxOU5uLXRuVkFINnY1d2dNMnNCemFTTmttMld3ckFNOXFrcTVpMDFxVk8xZ1hfVW5kWEpibUN6bmdpVWZxUzdUVlVOQmZaOEVrZDZLQ0dFWFA0QzJaUVE?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkFnbkRrMXpTdFhwcXdGQkZBc1FIcXJTSjNBQXZFVmh6cFJPa3F6RVBtd1A2RHZ3M00xcmczQUNma093eXJJX3hFOFRXMEEyalg3VThEY3JiMU1uaWxCQmRzUmlCYk13SWFranJIWGdXNGh6VHg1cGxDYjlocHZuSk5SLWpfbWt4NXU4T0ZCM2JfZWF0WmluQ2x6emRmazhqeXo3OGZ4aFhJU0VxeXRla3Y2bG5KSXlsa3RrM2NEWmt0NDlP?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOUV0Z1RvWDUwQlg2bVVkMDZsWjJpZ0dhM2xKOFdHOGtzd0tFeEVPRHFmR1JGbTZhMmVhUWhOYjRFVXdHWndDX3ljWUxZRzIwTEtjTVFESkJTYk1NUGhCQlhyd1pYNkpDOFJheldkSUZlSUNKSGZkM0l0ZGVCdmJ4MWQyYms2R25XSkVqV0Qyajdwc0RtV21oT2xpUmo0Rlpqb2h0eFFBM2wtSm92aGZiNElnYzZPQQ?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaWEVuTDlhUldKS1lJLXBxVGxNWHZTZ3RpTFNudzhrZzhtRVdxVlhMT3BBX1VMOWpmdkx6RHJkRGRyVWdCLWxvTzFIVkw3cE5kSFFoZEJjdDB0MkZpOTVXc1BVaWRLd25ReThCRmItVU5Ldw?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmplLWE2WGZRbUlSQVdiVTJ4a09CZUdtRV8wUFR2XzQyVnNoV3gwNVltRlFzQmpyNmdUTS1nS2RKQjVUbWxaUGtjb0RGX1p6eHE5N2VkQUxjaEpNcndJeW4yY0czZjZSZGh0cEpmNmdSWWd2NGotWHVUNi1uZWZTeWl4V1NDdnJ3SGkwdDN5TUlhVngwTU5UY3hRTjlPZzg1WXFGTUgxWG1Ra1d4SlNWYVMwVUUwaFlhc0tDbw?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObGhqSHRxdVhvZ04xcDJ4d0hNeHdjLUsyZC1ZU3VLZExMWWw2MUJJY3FzbExnN1g1a2JFdnlpVlpZYXZPbElaVVJzMTdPUGFUdjNZXy1wWi1zZ2tmSXloYURyWGxYRmdVWDByeWRsYWhOZVhUMTJOdTAzb1JuNXk2emF5Z2tYZ1N0MFZITzJpSmxHSHp3Z1hMV3VlRVFxckh0UUpF?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbnpxNnZhRFZzellnWDlfTEtsUXhxT2Zidmx0Xzk1dTl3aW1fd0xXTzBTbUhMSU5XVDljT21HdUtpNkJoenJwRUlVcjQwR1JHSnVTQkdQZEl6T1diUTVqbThsT2M1TUlZaUVMd09VeFFldUFJbVNGTFNKTWNiWEZmV05jZ3VZVVFuVHVYLTlJdTZFSlc5ZVpfRXFhaHBCaXE1M3owTjBmNW9UMTZMQ25faG1OYXdfQVI3TmNBX0Y5cXp5Wi13Y0FSemI5QWg3Z1RqZUV6R045MHVyZU0tbGU0?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUmlxdEUzM1BUa0hRbEcwVk93dUxPRXBkdHROVGNpUE9GaURYSGQ2UGZWelFYdXF2R0EzX1J3UmFRUHRxNzJBSkRhRGx1V0h5TERERTNCZ1g5SE9yLV9sN013dW5rMHdXQzlKdU9wZmczOGNWU0tFcm5kSlhHb2Rwb1hodTNjcmxVaHZEWXhPSVBRQk1Ibm5ENF9TZi1xbWNfd2NqLS1KdEw2NklCMW92QWRsUDlUVVgw?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZGpiVy1QbFJfZGotMWd4blpoeGR1SHVsZ1NXX2pINndfRlU4MF9DeUxMbTdqaVZKd0thR0hwSjhlQUItUUN0YnZpZWtla040ZS0xZE4wQ1FLb1lQLThWdnR0d0l2T21SMDJlRXltRDhpak5jeWZOQVNrZEwzeHlNel92d2dwT2syVjlKelEza3pBbVNKUmtZampmNmt2Sk1laFNGdVZ3TDBXbFB2cHNTRnRyekdCTm5nZl81QnE0Qjc0aXRxdXdDSXZaWTJMWE9Fdm1MYmNpWG4telZzZVVMbGxtUGV0YVpRMlFtUC1ZVkY0YVoweFE?oc=5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1140/epjs/s11734-026-02495-5",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.55041/ijsmt.v2i7.092",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.37538/8/0005-9889-2026-3-(634)-66-76",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1177/08927057261460371",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.5281/zenodo.21455128",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/2053-1583/ae8034",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1126/science.aed9202",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170225409",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.aquatox.2026.107948",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s12596-026-03212-0",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/2053-1591/ae8f0e",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.5281/zenodo.21508703",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acs.nanolett.6c01415",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.fluid.2026.114822",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acsanm.6c02182",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170111575",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acs.nanolett.6c01284",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170989444",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170111488",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.5281/zenodo.21465367",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.physe.2026.116621",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s11144-026-03217-7",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1063/5.0335406",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.3390/pr14152392",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170225189",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acsnanoscienceau.6c00063",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/2977-3504/ae8f4d",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.snb.2026.140533",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1080/20550324.2026.2704946",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/adma.202518224",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s41024-026-00874-y",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.matlet.2026.141308",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41467-026-75919-4",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acsami.6c09671",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.3390/ma19143144",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acs.langmuir.6c01718",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/1402-4896/ae8ede",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.carbon.2026.121901",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.35848/1347-4065/ae8f95",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7171268004",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7171268421",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41598-026-63060-7",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acsnano.5c20046",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.5281/zenodo.21452930",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1080/20550324.2026.2699044",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/anie.6432447",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.21203/rs.3.rs-10043453/v1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s11581-026-07406-1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41586-026-10802-2",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acs.jpclett.6c01206",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170224536",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.cej.2026.179603",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s00604-026-08200-6",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acsaelm.6c00433",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/accountsmr.6c00144",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s10853-026-13351-1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/anie.8021992",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41524-026-02245-0",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s40820-026-02310-9",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.bbrc.2026.154328",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.ccr.2026.218341",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.surfin.2026.110184",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acs.chemmater.6c00848",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.ijhydene.2026.156693",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acsaelm.6c00551",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1117/12.3118457",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.desal.2026.120554",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.jallcom.2026.189958",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acsami.6c08998",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.jpowsour.2026.241006",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.26434/chemrxiv.15006467/v1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acs.nanolett.6c03430",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s10853-026-13411-6",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.jece.2026.124212",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.jcis.2026.141185",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s42114-026-01969-3",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1117/12.3118460",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s11581-026-07387-1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/smll.74826",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41598-026-63703-9",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.jallcom.2026.190018",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s40820-026-02283-9",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s42114-026-01982-6",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.jpowsour.2026.241018",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/2516-1083/ae8e28",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.mtadv.2026.100897",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s42864-026-00395-8",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1140/epjs/s11734-026-02512-7",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.48550/arxiv.2607.18427",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1140/epjs/s11734-026-02542-1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1186/s43074-026-00269-9",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1103/bwxf-6cz2",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1103/l3yd-9fyr",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.25259/ajc_94_2026",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/advs.76354",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.jtice.2026.106914",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.5281/zenodo.21540691",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1140/epjs/s11734-026-02513-6",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/adma.74216",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170225375",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.coco.2026.102897",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.indcrop.2026.123982",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s11082-026-08970-6",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.5281/zenodo.21472026",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/2053-1591/ae8f0f",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.48550/arxiv.2607.20728",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/app.71236",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/1674-1056/ae8f22",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/0256-307x/43/8/080709",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s40735-026-01186-x",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s11664-026-13057-9",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.21203/rs.3.rs-10413997/v1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.25781/kaust-6yu83",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.30546/09081.2025.002.1014",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41467-026-73159-0",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41598-026-61514-6",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.3389/fchem.2026.1861354",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/2053-1591/ae8e59",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41467-026-75672-8",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.cap.2026.07.004",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41467-026-75446-2",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.21203/rs.3.rs-10395004/v1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41528-026-00621-w",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41467-026-75913-w",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/2053-1591/ae8faa",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129290",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.3788/col",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.54254/2977-3903/2026.35490",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/adfm.202531703",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.26190/unsworks/32511",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acs.nanolett.6c01893",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/adfm.77080",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/1674-1056/ae8fc6",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/adom.71523",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/adma.74287",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41524-026-02173-z",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/adfm.77339",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170224977",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.35848/1882-0786/ae8e2b",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acssensors.6c01853",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s44464-026-00031-x",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41467-026-76052-y",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.aei.2026.105071",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/adom.202503502",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.jallcom.2026.189913",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/app.71225",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170989651",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/admi.70606",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170112733",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170989412",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/2053-1591/ae902a",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170225253",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170111280",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170224538",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.3390/catal16080667",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170989508",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170224729",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1080/23746149.2026.2689897",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41467-026-74893-1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41699-026-00722-0",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170989409",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1209/0295-5075/ae8f6f",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170989691",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/2631-7990/ae8f85",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/jhep07(2026)183",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/nap2.70214",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.3390/jimaging12080337",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://openalex.org/W7170112455",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/1361-6595/ae8d53",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.3390/sci8080180",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acsami.6c07532",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1103/5b59-8zdc",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1364/josab.604669",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1103/56hq-9fdl",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/1361-6528/ae8861",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/masy.70447",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1103/wl1m-s2y9",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1103/zzks-vkl2",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1103/j9sg-gbth",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.21203/rs.3.rs-10395328/v1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1103/3cj6-dmj4",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1080/10408436.2026.2698037",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1103/7rdf-msdn",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1103/7xj7-hn98",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s11696-026-05279-2",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1080/00222348.2026.2704002",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1103/zw2l-bkwp",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/2053-1583/ae9046",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/smll.74773",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.25258/ijddt.16.69s.55",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acsami.6c02820",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acsami.6c11575",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/1361-6528/ae84d4",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1088/2053-1583/ae8962",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1108/hff-03-2026-0387",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1007/s10904-026-04459-7",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1002/aenm.71354",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://doi.org/10.1021/acsami.6c09285",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://arxiv.org/abs/2607.22089v1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://arxiv.org/abs/2607.21699v1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://arxiv.org/abs/2607.21234v1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://arxiv.org/abs/2607.21177v1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://arxiv.org/abs/2607.20117v1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://arxiv.org/abs/2607.19732v1",
+        "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      }
+    ],
+    "collector_errors": {}
+  }
 }
