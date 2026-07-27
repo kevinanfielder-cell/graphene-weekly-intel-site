@@ -816,6 +816,84 @@ select {
   margin: 22px 0 auto;
 }
 
+.company-trend {
+  border-top: 1px solid #e0e4df;
+  margin-top: 20px;
+  padding-top: 14px;
+}
+
+.trend-toggle {
+  align-items: center;
+  background: transparent;
+  border: 0;
+  color: var(--ink);
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 0;
+  text-align: left;
+  width: 100%;
+}
+
+.trend-toggle span {
+  color: #74817f;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.trend-toggle strong {
+  color: #087c7b;
+  font-size: 10px;
+  letter-spacing: 0.04em;
+}
+
+.trend-toggle:hover strong {
+  color: var(--ink);
+}
+
+.trend-panel {
+  background: #eef0eb;
+  border: 1px solid #d7ddd7;
+  margin-top: 14px;
+  padding: 10px;
+}
+
+.trend-chart {
+  min-height: 340px;
+  position: relative;
+}
+
+.trend-chart iframe {
+  display: block;
+  min-height: 340px;
+  width: 100%;
+}
+
+.trend-status {
+  color: #60706f;
+  font-size: 12px;
+  margin: 16px 8px;
+}
+
+.trend-note {
+  border-top: 1px solid #d7ddd7;
+  color: #697674;
+  font-size: 10px;
+  line-height: 1.5;
+  margin: 8px 0 0;
+  padding: 10px 8px 2px;
+}
+
+.trend-note a {
+  color: #087c7b;
+  font-weight: 700;
+}
+
+.trend-note a:hover {
+  color: var(--ink);
+}
+
 .company-links {
   align-items: center;
   border-top: 1px solid #e0e4df;
@@ -1065,6 +1143,21 @@ select {
 
   .company-grid {
     grid-template-columns: 1fr;
+  }
+
+  .trend-toggle {
+    min-height: 44px;
+  }
+
+  .trend-toggle span,
+  .trend-toggle strong,
+  .trend-note {
+    font-size: 11px;
+  }
+
+  .trend-chart,
+  .trend-chart iframe {
+    min-height: 300px;
   }
 
   .archive-row {
