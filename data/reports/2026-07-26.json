@@ -172,7 +172,8 @@
       "material_type": "graphene",
       "verticals": [
         "Thermal management",
-        "Composites and coatings"
+        "Composites and coatings",
+        "Graphene–metal composites"
       ],
       "themes": [
         "Research"
@@ -229,7 +230,8 @@
       "article_type": "Industry news",
       "material_type": "graphene",
       "verticals": [
-        "Energy storage"
+        "Energy storage",
+        "Graphene–metal composites"
       ],
       "themes": [
         "Partnerships",
@@ -311,7 +313,8 @@
       "article_type": "Academic research",
       "material_type": "graphene",
       "verticals": [
-        "Composites and coatings"
+        "Composites and coatings",
+        "Graphene–metal composites"
       ],
       "themes": [
         "Research"
@@ -3221,7 +3224,8 @@
       "material_type": "graphene",
       "verticals": [
         "Flexible electronics and force sensors",
-        "Sensors"
+        "Sensors",
+        "Graphene–metal composites"
       ],
       "themes": [
         "Research"
@@ -3326,7 +3330,8 @@
       "article_type": "Academic research",
       "material_type": "graphene",
       "verticals": [
-        "Other — Microwave metamaterials"
+        "Other — Microwave metamaterials",
+        "Graphene–metal composites"
       ],
       "themes": [
         "Research"
