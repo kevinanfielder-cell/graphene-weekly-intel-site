@@ -461,7 +461,7 @@ select {
   border-top: 1px solid #cbd1cd;
   display: grid;
   gap: 18px;
-  grid-template-columns: minmax(260px, 1.7fr) repeat(3, minmax(150px, 0.7fr));
+  grid-template-columns: minmax(250px, 1.55fr) repeat(4, minmax(130px, 0.7fr));
   margin: 0 auto 56px;
   max-width: 1380px;
   padding: 18px 0;
