@@ -1,6 +1,10 @@
 {
   "reports": [
     {
+      "end": "2026-08-02",
+      "url": "/data/reports/2026-08-02.json"
+    },
+    {
       "end": "2026-07-26",
       "url": "/data/reports/2026-07-26.json"
     }
