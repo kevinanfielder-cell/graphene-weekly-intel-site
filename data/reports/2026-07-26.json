@@ -7205,5 +7205,192 @@
       }
     ],
     "collector_errors": {}
+  },
+  "bulletin": {
+    "title": "Graphene Weekly Bulletin — Week ending 2026-07-26",
+    "introduction": "This issue tracks 25 verified signals across Composites and coatings, Graphene–metal composites, Energy storage. Activity spans 13 named companies, with commercial announcements assessed alongside academic and competing-material evidence. Lower-confidence or promotional claims remain visible and are explicitly flagged for follow-up.",
+    "sections": {
+      "company_updates": [
+        {
+          "rank": 1,
+          "article_id": "art_3b0ab762217c38be4c",
+          "blurb": "Lyten will supply 3D graphene filament for Modovolo’s BFP printing platform. The arrangement signals commercialization of graphene-enabled additive-manufacturing materials, although the available source provides limited details on scale or terms.",
+          "score": 96.2,
+          "selection_reason": "graphene-led signal; priority vertical: Composites and coatings; corporate theme: Partnerships, Commercialization"
+        },
+        {
+          "rank": 2,
+          "article_id": "art_e521cea70e88390901",
+          "blurb": "An unnamed city says it is co-establishing an industrial research institute with the China National Aero-Engine Graphene Research Institute. The collaboration includes graphene composite copper foil and is presented as supporting technology upgrades in photovoltaic and energy-storage industries; no project specifics are provided.",
+          "score": 84.0,
+          "selection_reason": "graphene-led signal; priority vertical: Graphene–metal composites; corporate theme: Partnerships, Facilities"
+        },
+        {
+          "rank": 3,
+          "article_id": "art_e2e1605a013da75ac6",
+          "blurb": "HydroGraph Clean Power announced a partnership with Western International for a graphene production facility in Texas. The available report does not specify the facility’s capacity, investment, timeline, or end markets.",
+          "score": 83.0,
+          "selection_reason": "graphene-led signal; corporate theme: Partnerships, Facilities, Commercialization"
+        },
+        {
+          "rank": 4,
+          "article_id": "art_e8a6b4f50f95267055",
+          "blurb": "Zentek reports securing a U.S. commercial pathway for graphene-enhanced air-filtration media. The item signals potential commercialization progress, but the available excerpt does not identify the pathway, customer, or supporting performance evidence.",
+          "score": 77.8,
+          "selection_reason": "graphene-led signal; priority vertical: Air/water filtration and separation; corporate theme: Commercialization"
+        },
+        {
+          "rank": 5,
+          "article_id": "art_0296bf9254aa79776c",
+          "blurb": "First Graphene (FGR) has entered an agreement with MITO Material Solutions. The available report does not disclose the agreement’s scope, products, technical objectives, or commercial terms.",
+          "score": 75.8,
+          "selection_reason": "graphene-led signal; priority vertical: Composites and coatings; corporate theme: Partnerships"
+        }
+      ],
+      "academic": [
+        {
+          "rank": 1,
+          "article_id": "art_67df8e72942f0188d7",
+          "blurb": "Molecular dynamics simulations indicate that nickel/graphene offers the highest strength and stiffness, while copper/graphene provides the greatest ductility. The study suggests that metal selection and deformation-temperature processing can tune composite mechanical properties, but reports simulated rather than experimentally validated results.",
+          "score": 91.8,
+          "selection_reason": "graphene-led signal; priority vertical: Composites and coatings, Graphene–metal composites; high-confidence evidence"
+        },
+        {
+          "rank": 2,
+          "article_id": "art_ddee3657da978aac46",
+          "blurb": "Researchers produced nonwoven electrospun fibers from a polyaniline–graphene nanocomposite blended with polystyrene. The fibers showed well-dispersed graphene, approximately 653 nm average diameter, three-step thermal degradation, and photoluminescence near 468 nm.",
+          "score": 87.6,
+          "selection_reason": "graphene-led signal; priority vertical: Composites and coatings; high-confidence evidence"
+        },
+        {
+          "rank": 3,
+          "article_id": "art_542b0a4996b01f9301",
+          "blurb": "Spectroscopy and density-functional theory reveal substantial interfacial charge transfer, hole-doping graphene while driving an insulator-to-metal transition in CrSBr. The findings also indicate strain and possible spin-degeneracy lifting, supporting graphene/CrSBr heterostructures for spintronic and nanophotonic devices.",
+          "score": 85.2,
+          "selection_reason": "graphene-led signal; high-confidence evidence"
+        },
+        {
+          "rank": 4,
+          "article_id": "art_84ed2d40254cc160a1",
+          "blurb": "An academic review examines how micro-dome, pillar, cone, and bio-inspired architectures affect sensitivity, response time, durability, and detection range in graphene-based flexible conductors. It proposes quantitative structure–performance design guidelines for multifunctional wearable sensors and discusses graphene/silver-nanowire composites as a conductivity-cost trade-off.",
+          "score": 82.8,
+          "selection_reason": "graphene-led signal; priority vertical: Graphene–metal composites; high-confidence evidence"
+        },
+        {
+          "rank": 5,
+          "article_id": "art_4651e71f7841f6c8f6",
+          "blurb": "Researchers demonstrate that graphene sheet resistance can tune plasmon hybridization and negative permeability in bilayer metallic-disk metamaterials without changing their geometry. The approach also enables frequency-dependent control of attenuation and negative refractive-index behavior through adjustable absorption and impedance mismatch.",
+          "score": 82.8,
+          "selection_reason": "graphene-led signal; priority vertical: Graphene–metal composites; high-confidence evidence"
+        },
+        {
+          "rank": 6,
+          "article_id": "art_892bb4cb8dfb2487eb",
+          "blurb": "A comparative study found that reduced graphene oxide (rGO) provided better dispersion, interfacial bonding, thermal stability, and mechanical reinforcement in polypropylene than graphene oxide. At specified loadings, rGO increased tensile strength by 37.6% and impact strength by 67.1%, indicating its stronger potential as a polypropylene nanofiller.",
+          "score": 82.8,
+          "selection_reason": "graphene-led signal; priority vertical: Composites and coatings; high-confidence evidence"
+        },
+        {
+          "rank": 7,
+          "article_id": "art_81804cceafec880157",
+          "blurb": "Researchers developed reduced graphene oxide membranes with KOH-etched nanopores and ionic-liquid-stabilized interlayer spacing to create dual water-transport pathways. The optimized membrane achieved 455 L m−2 h−1 bar−1 water permeance and 99.68% methylene blue rejection, indicating potential for energy-efficient water treatment.",
+          "score": 82.8,
+          "selection_reason": "graphene-led signal; priority vertical: Air/water filtration and separation; high-confidence evidence"
+        },
+        {
+          "rank": 8,
+          "article_id": "art_f3fd831bd64ab96bbc",
+          "blurb": "Molecular dynamics simulations show that hydroxyl and epoxy groups produce distinct hydration regimes at graphene oxide interfaces. The findings link wettability to nanoscale hydrogen-bond defects and could guide the design of carbon-based nanomaterials.",
+          "score": 82.8,
+          "selection_reason": "graphene-led signal; priority vertical: Composites and coatings; high-confidence evidence"
+        },
+        {
+          "rank": 9,
+          "article_id": "art_94ab265ca707e1e937",
+          "blurb": "Molecular dynamics simulations found that adding 2 wt.% graphene to asphalt binders improved yield stress, toughness and post-yield behavior, while raising zero-shear viscosity and glass-transition temperature by about 26 K. The study links these gains to stronger noncovalent interactions and reduced molecular diffusivity, providing guidance for optimizing graphene–asphalt compatibility.",
+          "score": 82.8,
+          "selection_reason": "graphene-led signal; priority vertical: Composites and coatings; high-confidence evidence"
+        },
+        {
+          "rank": 10,
+          "article_id": "art_3e7e60b8daf3d077af",
+          "blurb": "The study investigates environmentally produced and defect-engineered graphene quantum dots for removing multiple pollutants from water. It signals research progress in graphene-enabled water treatment, but no commercial deployment or industrial partners are identified.",
+          "score": 82.8,
+          "selection_reason": "graphene-led signal; priority vertical: Air/water filtration and separation; high-confidence evidence"
+        }
+      ],
+      "industry": [
+        {
+          "rank": 1,
+          "article_id": "art_846f11b443dfc2ae04",
+          "blurb": "Zentek has engaged IMPAQ Capital Inc. to expand investor awareness across North America. The announcement concerns investor relations and does not indicate new financing, product commercialization, or technical progress.",
+          "score": 67.0,
+          "selection_reason": "graphene-led signal"
+        },
+        {
+          "rank": 2,
+          "article_id": "art_6583ae8172aec14183",
+          "blurb": "Lyten’s weekly update highlights 3D graphene applications in high-temperature adhesives and power solutions for AI data centers. The excerpt is promotional and provides no independent performance data, customer commitments, or deployment evidence.",
+          "score": 66.8,
+          "selection_reason": "graphene-led signal; priority vertical: Composites and coatings"
+        },
+        {
+          "rank": 3,
+          "article_id": "art_22bcec9e3329f29487",
+          "blurb": "Jiangsu is collecting products for a new materials inventory covering advanced foundational, strategic, and frontier materials. Listed categories include graphene and carbon nanotubes, alongside aerogels, quantum dots, perovskites, two-dimensional semiconductors, and other emerging materials.",
+          "score": 66.0,
+          "selection_reason": "graphene-led signal; high-confidence evidence"
+        },
+        {
+          "rank": 4,
+          "article_id": "art_6b007baea6d8f82c0d",
+          "blurb": "Graphene Manufacturing Group announced a live fireside chat on scaling production and expanding global markets. No specific facilities, customers, funding, or commercial milestones are disclosed in the excerpt.",
+          "score": 63.8,
+          "selection_reason": "graphene-led signal"
+        },
+        {
+          "rank": 5,
+          "article_id": "art_7d2405518a3b444fa6",
+          "blurb": "Australian Manufacturing features a case study on Sparc Technologies’ graphene-coating development. The available excerpt provides no specific performance data, commercial deployment, or partner information.",
+          "score": 62.2,
+          "selection_reason": "graphene-led signal; priority vertical: Composites and coatings"
+        },
+        {
+          "rank": 6,
+          "article_id": "art_9cd39156f7d416e001",
+          "blurb": "AICEP reports that a graphene-based coating developed in Portugal may make drones harder to detect. No developer, technical performance data, or independent validation is provided, leaving the claimed defense relevance unverified.",
+          "score": 61.0,
+          "selection_reason": "graphene-led signal; priority vertical: Composites and coatings"
+        },
+        {
+          "rank": 7,
+          "article_id": "art_82c44491b6e34c8d66",
+          "blurb": "Interesting Engineering reports that a US-built aerospace 3D printer uses graphene to produce parts claimed to be 50% tougher. The available excerpt names no company and provides no testing methodology or independent validation, so the performance claim remains uncertain.",
+          "score": 61.0,
+          "selection_reason": "graphene-led signal; priority vertical: Composites and coatings"
+        },
+        {
+          "rank": 8,
+          "article_id": "art_a29f274745d4ac543e",
+          "blurb": "Mackenzie Fly Fishing reports tick-repellent properties for its graphene-infused clothing range. The available excerpt provides no independent evidence supporting the claim, but indicates commercialization of graphene-containing apparel.",
+          "score": 60.2,
+          "selection_reason": "graphene-led signal"
+        },
+        {
+          "rank": 9,
+          "article_id": "art_dc6adfd557b44f9ea2",
+          "blurb": "Volt Carbon, Solid Ultrabattery and TensorOne announced a strategic collaboration to advance next-generation autonomous aircraft technologies. The release provides limited detail on the technologies, graphene’s specific role, or commercial timelines.",
+          "score": 60.2,
+          "selection_reason": "graphene-led signal"
+        },
+        {
+          "rank": 10,
+          "article_id": "art_1cf5c7ec23b2edd50c",
+          "blurb": "First Graphene’s shares fell 7.69% as its advanced materials business reportedly expanded. The excerpt provides no details on products, customers, contracts, or the nature of the expansion.",
+          "score": 60.2,
+          "selection_reason": "graphene-led signal"
+        }
+      ]
+    }
   }
 }

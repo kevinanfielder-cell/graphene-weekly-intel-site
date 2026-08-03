@@ -4239,15 +4239,17 @@
       "id": "one-condoms"
     },
     {
-      "name": "ORA",
-      "aliases": [],
+      "name": "Ora Graphene Audio",
+      "aliases": [
+        "ORA"
+      ],
       "website": "",
       "country": "Canada",
       "supply_chain_position": "Application developers",
       "verticals": [
         "Audio"
       ],
-      "description": "ORA is a Canada-based company that is said to use GO to design loudspeakers and headphones. The company claims that these GO-enhanced audio components boast a better sound quality, as well as enhanced efficiency and smaller/lighter form factors.",
+      "description": "Ora Graphene Audio is a Canada-based company that is said to use GO to design loudspeakers and headphones. The company claims that these GO-enhanced audio components boast a better sound quality, as well as enhanced efficiency and smaller/lighter form factors.",
       "source_url": "https://www.graphene-info.com/ora",
       "first_seen": "2026-07-26",
       "last_verified": "2026-07-26",
