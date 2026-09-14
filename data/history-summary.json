@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T13:07:15-04:00",
+  "generated_at": "2026-09-14T13:35:25-04:00",
   "weeks": [
     {
       "start": "2026-07-20",
@@ -28437,6 +28437,4211 @@
             "Argo Graphene Solutions"
           ],
           "confidence": 0.45
+        }
+      ]
+    },
+    {
+      "start": "2026-09-07",
+      "end": "2026-09-13",
+      "label": "38 · 2026",
+      "articles": [
+        {
+          "id": "art_eba0fd88ab16fdd9ba",
+          "published_at": "2026-09-13",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Energy storage",
+            "Sensors",
+            "Air/water filtration and separation",
+            "Biomedical"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_2cb7a7192f42c29941",
+          "published_at": "2026-09-13",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Thermal management",
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_6f9f15c2c110e7a3c6",
+          "published_at": "2026-09-13",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Biomedical",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_22d2c9d63ca616e4b6",
+          "published_at": "2026-09-13",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_9e7e52064da9c1729e",
+          "published_at": "2026-09-13",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.92
+        },
+        {
+          "id": "art_a08f801daa5530b2db",
+          "published_at": "2026-09-13",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Photonic materials"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.7
+        },
+        {
+          "id": "art_95d6ff762837f7a0e3",
+          "published_at": "2026-09-13",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Thermal management",
+            "Energy storage"
+          ],
+          "themes": [
+            "Commercialization",
+            "Facilities"
+          ],
+          "companies": [
+            "Dao Ming Optics"
+          ],
+          "confidence": 0.7
+        },
+        {
+          "id": "art_4c45125e30c6034d3c",
+          "published_at": "2026-09-13",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Thermal management"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "Titan Army"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_b0e3e3ce1241b5f397",
+          "published_at": "2026-09-13",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Patents"
+          ],
+          "companies": [
+            "Adisyn"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_96b2850dd5ef097e34",
+          "published_at": "2026-09-13",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Graphite and critical minerals"
+          ],
+          "themes": [],
+          "companies": [
+            "Leading Edge Materials"
+          ],
+          "confidence": 0.58
+        },
+        {
+          "id": "art_60911bf93a3f26ccf5",
+          "published_at": "2026-09-12",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Flexible electronics and force sensors",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_f605e5f72cac5c1c46",
+          "published_at": "2026-09-12",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "2D semiconductors",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_e75885fbe5617b1c5b",
+          "published_at": "2026-09-12",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_54c2e3bdc650e230cf",
+          "published_at": "2026-09-12",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings",
+            "Thermal management"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_c540a3638371c040cd",
+          "published_at": "2026-09-12",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications",
+            "Other — boron nanomaterials"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_0b05b3c9c6da04da60",
+          "published_at": "2026-09-12",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications",
+            "Thermal management",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_ac64508ca35273b58a",
+          "published_at": "2026-09-12",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Biomedical",
+            "Sensors",
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.95
+        },
+        {
+          "id": "art_74fe453e0e849f7158",
+          "published_at": "2026-09-12",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Biomedical"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_90c606c9eded3e7161",
+          "published_at": "2026-09-12",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Thermal management",
+            "Energy storage",
+            "Graphene–metal composites",
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.91
+        },
+        {
+          "id": "art_7d65b3b009b4ab05ab",
+          "published_at": "2026-09-12",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — 2D materials characterization"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.9
+        },
+        {
+          "id": "art_f4543b23a8b19de20f",
+          "published_at": "2026-09-12",
+          "article_type": "Patent news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Thermal management"
+          ],
+          "themes": [
+            "Patents"
+          ],
+          "companies": [
+            "Unified Petrochemical"
+          ],
+          "confidence": 0.7
+        },
+        {
+          "id": "art_4e745151cff3fccbdb",
+          "published_at": "2026-09-12",
+          "article_type": "Patent news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Patents"
+          ],
+          "companies": [
+            "Hubei Boxing"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_b3435a4fd156b5e158",
+          "published_at": "2026-09-12",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — electronic materials"
+          ],
+          "themes": [
+            "Commercialization",
+            "Facilities"
+          ],
+          "companies": [
+            "Inner Mongolia Lingtuo Technology Co., Ltd."
+          ],
+          "confidence": 0.67
+        },
+        {
+          "id": "art_fec270c647556bc7d5",
+          "published_at": "2026-09-12",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Thermal management"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [],
+          "confidence": 0.65
+        },
+        {
+          "id": "art_9d83212dc01f1b5ed9",
+          "published_at": "2026-09-12",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Energy storage",
+            "Composites and coatings",
+            "Other — Agriculture"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "Hunan Zidong Changhong Technology",
+            "Hunan Lurong New Materials",
+            "Hunan Rongjing Bamboo Industry"
+          ],
+          "confidence": 0.63
+        },
+        {
+          "id": "art_7da6361260db9eff1d",
+          "published_at": "2026-09-12",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.62
+        },
+        {
+          "id": "art_32e2ea1dac2aa01be2",
+          "published_at": "2026-09-12",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.6
+        },
+        {
+          "id": "art_31978f29d510ad4a27",
+          "published_at": "2026-09-12",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Infrared optics"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.58
+        },
+        {
+          "id": "art_5fc7272ef90e8de5bc",
+          "published_at": "2026-09-12",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Graphene company financial information"
+          ],
+          "themes": [],
+          "companies": [
+            "HydroGraph Clean Power"
+          ],
+          "confidence": 0.55
+        },
+        {
+          "id": "art_546bcfb2a44d13ddee",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.99
+        },
+        {
+          "id": "art_4c376681acade21ea8",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Boron nitride",
+          "verticals": [
+            "Thermal management",
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.99
+        },
+        {
+          "id": "art_c3c2ad1b94e89e1722",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.99
+        },
+        {
+          "id": "art_1dfada16e888fb657d",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Construction"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_8d8feb31d72818e79e",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Computational materials analysis"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_5de25e774979d6ea3a",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Semiconductor applications",
+            "Flexible electronics and force sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_1c3000af36066c9933",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Biomedical"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_98cc562404d7d8d8ed",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_4805e6020e87973a89",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_489e5d0fab470d180e",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Biomedical"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_10e2097f2aef089316",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Boron nitride",
+          "verticals": [
+            "Thermal management",
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_2d94a0c761118cb1e8",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Thermal management",
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_334fdf79dc4079ab38",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — Quantum and optical materials"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_d7675a17e8adf47bfd",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications",
+            "Thermal management"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_730b9a8ece79a6ac2f",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Sensors",
+            "Biomedical"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_62618753083b45be34",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Thermal management"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_b9e36fc5ac9a34626f",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Energy storage",
+            "Flexible electronics and force sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_364500d2b603202761",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Boron nitride",
+          "verticals": [
+            "Composites and coatings",
+            "Thermal management"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_5f5073d06c5e44bc24",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "2D semiconductors",
+          "verticals": [
+            "Semiconductor applications",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_08e71f6962af6e360a",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "2D semiconductors",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.95
+        },
+        {
+          "id": "art_c047dbdfaba36a8093",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_61e55c9d295a066d5a",
+          "published_at": "2026-09-11",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Corporate securities regulation"
+          ],
+          "themes": [
+            "Regulation"
+          ],
+          "companies": [
+            "Plaid Technologies"
+          ],
+          "confidence": 0.93
+        },
+        {
+          "id": "art_632d49beec2f9dbd6a",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Energy storage",
+            "Semiconductor applications",
+            "Biomedical"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.93
+        },
+        {
+          "id": "art_2b1c34b530944f571c",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.93
+        },
+        {
+          "id": "art_acc01644d2db74f56a",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.93
+        },
+        {
+          "id": "art_aa3176a2a11a02c34c",
+          "published_at": "2026-09-11",
+          "article_type": "Industry news",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [],
+          "companies": [
+            "Renishaw",
+            "XP Power"
+          ],
+          "confidence": 0.91
+        },
+        {
+          "id": "art_0bc6faa5b4696b9a3f",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Other — electrocatalysis"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.9
+        },
+        {
+          "id": "art_9227abe40142c8f272",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Electrocatalysis"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.88
+        },
+        {
+          "id": "art_55c9418b70da1035dd",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — solar-fuel generation"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.88
+        },
+        {
+          "id": "art_f5eacce23933223f56",
+          "published_at": "2026-09-11",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Corporate and financial compliance"
+          ],
+          "themes": [
+            "Regulation"
+          ],
+          "companies": [
+            "Plaid Technologies"
+          ],
+          "confidence": 0.86
+        },
+        {
+          "id": "art_b1dc970196b827c9d8",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.86
+        },
+        {
+          "id": "art_7a520f3a9a58db8b25",
+          "published_at": "2026-09-11",
+          "article_type": "Industry news",
+          "material_type": "non-graphene",
+          "material_family": "Carbon nanotubes",
+          "verticals": [
+            "Other — Carbon nanotube-reinforced polymers"
+          ],
+          "themes": [],
+          "companies": [
+            "Grand View Research"
+          ],
+          "confidence": 0.82
+        },
+        {
+          "id": "art_8f11f69d3f064b4dd4",
+          "published_at": "2026-09-11",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Graphene materials"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "First Graphene"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_1d2723c0181aed342f",
+          "published_at": "2026-09-11",
+          "article_type": "Industry news",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — sustainable steelmaking"
+          ],
+          "themes": [
+            "Facilities"
+          ],
+          "companies": [
+            "Tata Steel"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_9cf799efda8456de43",
+          "published_at": "2026-09-11",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Corporate regulation"
+          ],
+          "themes": [
+            "Regulation"
+          ],
+          "companies": [
+            "Plaid Technologies"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_bb628895407d86ec47",
+          "published_at": "2026-09-11",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [
+            "Graphene Manufacturing Group (GMG)"
+          ],
+          "confidence": 0.62
+        },
+        {
+          "id": "art_627f1272072ac8cad5",
+          "published_at": "2026-09-11",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Thermal management",
+            "Composites and coatings"
+          ],
+          "themes": [],
+          "companies": [
+            "IndexBox"
+          ],
+          "confidence": 0.62
+        },
+        {
+          "id": "art_023f478280c2e99178",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Fundamental graphene science"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.62
+        },
+        {
+          "id": "art_4a8f1f5069df8f5a8d",
+          "published_at": "2026-09-11",
+          "article_type": "Industry news",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — sustainable steelmaking"
+          ],
+          "themes": [],
+          "companies": [
+            "Tata Steel"
+          ],
+          "confidence": 0.6
+        },
+        {
+          "id": "art_88ee907ff80b299023",
+          "published_at": "2026-09-11",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — mining applications"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "First Graphene"
+          ],
+          "confidence": 0.58
+        },
+        {
+          "id": "art_837ac27d5223267179",
+          "published_at": "2026-09-11",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — insufficient information"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.2
+        },
+        {
+          "id": "art_db35d382a2bdb9b891",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.99
+        },
+        {
+          "id": "art_4442ba881504bdd367",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Air/water filtration and separation"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_98bec3e7a136242638",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Defense and dual-use"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_f63488ea67e211e811",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Air/water filtration and separation"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_78dab64fb0740a9f4a",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "2D semiconductors",
+          "verticals": [
+            "Semiconductor applications",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_9424def941be33b915",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "2D semiconductors",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_390656f83fc3ba45a6",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_658586eff90dca12e6",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_c3107201dd1b06bea0",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_bed2c8412682bb4755",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_b203e9f5b1074fb385",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications",
+            "Flexible electronics and force sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_0d0682f435736569b7",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Sensors",
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_83abd4ca43a14c9c5d",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_6154cde571b4cb8bf0",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Sensors",
+            "Semiconductor applications",
+            "Biomedical"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_3678f1a3ee0d1891b9",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_d316d039c7f6263b5d",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Defense and dual-use",
+            "Flexible electronics and force sensors",
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_5fd11523f80511a105",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_73c690e3b60bebe366",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_f162faaa3ec32e94b4",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Thermal management",
+            "Energy storage",
+            "Sensors",
+            "Semiconductor applications",
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_59f63212400d55781c",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_7b394764a954e38077",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_ec5984a2e05997ac5d",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Boron nitride",
+          "verticals": [
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_8e49308bb6321f6f5b",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_2886b57138a1cbef2a",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_8c15e972900b2807c8",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_51117938eec2c9ebc4",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications",
+            "Other — 2D magnetic materials"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_4301c385f30a99885f",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Surface chemistry and nanofluidics"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.95
+        },
+        {
+          "id": "art_b603331f8b08a68f2d",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Boron nitride",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.95
+        },
+        {
+          "id": "art_7c1fe82210c93a456e",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_aebbfda88138d9d135",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.93
+        },
+        {
+          "id": "art_75972810b152b4ebba",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.9
+        },
+        {
+          "id": "art_5d7eae94dc21fa0b33",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — low-carbon steel production"
+          ],
+          "themes": [
+            "Facilities"
+          ],
+          "companies": [
+            "Tata Steel"
+          ],
+          "confidence": 0.88
+        },
+        {
+          "id": "art_d775b02829adabb295",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "First Graphene",
+            "Pacific Urethanes Pty Ltd"
+          ],
+          "confidence": 0.88
+        },
+        {
+          "id": "art_68926d7616db0c2ae5",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "First Graphene"
+          ],
+          "confidence": 0.72
+        },
+        {
+          "id": "art_79fa5a7b82e93c3fce",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Boron nitride",
+          "verticals": [
+            "Other — Nanopore materials"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.7
+        },
+        {
+          "id": "art_79976930556f70098d",
+          "published_at": "2026-09-10",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Air/water filtration and separation"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_4392603c0e758bbeed",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "First Graphene"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_186e461dd6da56dadb",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "First Graphene",
+            "Pacific Urethanes"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_cfbe2da5c79eedd8d2",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings",
+            "Defense and dual-use"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "First Graphene",
+            "Pacific Urethanes"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_614eaa859f374f7135",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "First Graphene",
+            "Pacific Urethanes"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_cd7c355d5983eaf5fd",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "non-graphene",
+          "material_family": "Boron nitride",
+          "verticals": [
+            "Other — Nanomaterials research"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_c28d4c74f64ee4a709",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.62
+        },
+        {
+          "id": "art_0054f2aba80827af93",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Defense and dual-use",
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.62
+        },
+        {
+          "id": "art_4fe5cc53ef2a4eec46",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "Graphene Manufacturing Group (GMG)"
+          ],
+          "confidence": 0.58
+        },
+        {
+          "id": "art_4c04a4085b7d7c2628",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Graphene materials production"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "HydroGraph Clean Power"
+          ],
+          "confidence": 0.58
+        },
+        {
+          "id": "art_f16110da95c2cd6367",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — steelmaking"
+          ],
+          "themes": [
+            "Facilities"
+          ],
+          "companies": [
+            "Tata Steel"
+          ],
+          "confidence": 0.55
+        },
+        {
+          "id": "art_4f5f3a2f7ad8ab6189",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — application unspecified"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "First Graphene"
+          ],
+          "confidence": 0.55
+        },
+        {
+          "id": "art_8292d647d1cb9f1f50",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [
+            "Graphene Manufacturing Group (GMG)"
+          ],
+          "confidence": 0.52
+        },
+        {
+          "id": "art_0bc230dec40bb57bae",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — graphene project development"
+          ],
+          "themes": [],
+          "companies": [
+            "First Graphene"
+          ],
+          "confidence": 0.45
+        },
+        {
+          "id": "art_a91765641c805a9237",
+          "published_at": "2026-09-10",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — graphene production"
+          ],
+          "themes": [],
+          "companies": [
+            "HydroGraph Clean Power"
+          ],
+          "confidence": 0.35
+        },
+        {
+          "id": "art_733bacad40b8ab56d9",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Air/water filtration and separation"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_cd01a0bd2bf18705a3",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_d05bccb2d7734ffcf0",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Other — Photocatalysis"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_8048e4b07a735bc268",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Biomedical"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_41a1fceedc40f6c93f",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Other — hydrogen production and electrocatalysis"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_e7ff841755ed63ab1a",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_8f55ab4e811d995ef7",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Boron nitride",
+          "verticals": [
+            "Biomedical"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_f819044e0d280fc61a",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Sensors",
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_99864d9775a719bdcf",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Carbon nanotubes",
+          "verticals": [
+            "Air/water filtration and separation"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_37f69cbdf9385ce496",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — quasicrystals and magnetism"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_66176661b111153efa",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_c83b8b8fc8f3f6d33d",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_e631fbc8a60967ac09",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_12c708f311547bd5c7",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_fbfce902535abe7192",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications",
+            "Thermal management"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_8d654edc7d2703f97d",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Air/water filtration and separation"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_84cfba925a388ff11b",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_e1563933cd05c6c9b3",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — graphene synthesis and characterization"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_91162b198d88471a58",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_ab44e974a9b4569c95",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Composites and coatings",
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_b0fc4baa50f7f626b5",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_63953ebc4e70206cb3",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_e5b08d0081bd6c6a5f",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Other — MXene materials"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_fb13d98246d338278b",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Air/water filtration and separation"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_9121e6d64776c2b388",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Other — Electrocatalysis and carbon-dioxide conversion"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_3e674c89acade1fd61",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Other — Electrocatalysis"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_b00d2f53e1f9c48412",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_d5cdd459ed53f77659",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Thermal management",
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_952347cafc3ed3c2a2",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "2D semiconductors",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_ba5a042a710da65e73",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings",
+            "Graphene–metal composites"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_ef0851a023c9e5ecbd",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.95
+        },
+        {
+          "id": "art_6dd6549e8cf078e321",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Corporate governance and equity"
+          ],
+          "themes": [],
+          "companies": [
+            "First Graphene"
+          ],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_0c6aff3337c0491a0e",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Defense and dual-use",
+            "Composites and coatings",
+            "Graphene–metal composites"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_c1098910382aec3c66",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_d5085303d33954fed3",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Flexible electronics and force sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_c0e2e805a7486decb0",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_518e2fbefe5aa949f5",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Defense and dual-use",
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_63755b93d89aa71107",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_66bfcd9786906e4660",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_3e7f17fceac716a19e",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Sensors",
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_152f4fc6bc5ef5ee19",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Boron nitride",
+          "verticals": [
+            "Energy storage",
+            "Thermal management"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.93
+        },
+        {
+          "id": "art_108203244aed231629",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Thermal management"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.92
+        },
+        {
+          "id": "art_cc6dd855e7d1f7c15b",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.92
+        },
+        {
+          "id": "art_db94f8587c9d94bb10",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.9
+        },
+        {
+          "id": "art_0101a65e65b8ada6be",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Corporate actions"
+          ],
+          "themes": [],
+          "companies": [
+            "First Graphene"
+          ],
+          "confidence": 0.86
+        },
+        {
+          "id": "art_111ed538d558258e75",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.86
+        },
+        {
+          "id": "art_799a6367a3818264d5",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Biomedical",
+            "Sensors",
+            "Flexible electronics and force sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.84
+        },
+        {
+          "id": "art_d56deb91efd5f79c9c",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "First Graphene",
+            "Pacific Urethanes"
+          ],
+          "confidence": 0.82
+        },
+        {
+          "id": "art_b43dfc393fc9d2c1f2",
+          "published_at": "2026-09-09",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — Carbon photoluminescent materials"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.7
+        },
+        {
+          "id": "art_a79a17d3a952cb1195",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings",
+            "Defense and dual-use"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "First Graphene",
+            "Pacific Urethanes"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_bb0784973edc0d0575",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — general materials development"
+          ],
+          "themes": [],
+          "companies": [
+            "Graphene Manufacturing Group (GMG)"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_ece6e10ea3b413a2cb",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — unspecified graphene application"
+          ],
+          "themes": [
+            "Fundraising",
+            "Commercialization"
+          ],
+          "companies": [
+            "Argo Graphene Solutions"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_a144af88cc1fbc59c8",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — graphene production and refining"
+          ],
+          "themes": [
+            "Fundraising",
+            "Facilities"
+          ],
+          "companies": [
+            "Argo Graphene Solutions"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_87d88336d8ba5f7730",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "Graphmatech"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_2ef4916fd98836dda0",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — graphene materials"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "Sparc Technologies"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_3ec835661bb4e4f1ac",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — graphite electrodes"
+          ],
+          "themes": [],
+          "companies": [
+            "Graphite India",
+            "GrafTech"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_abb101e5623475b238",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [
+            "Graphene Manufacturing Group (GMG)"
+          ],
+          "confidence": 0.62
+        },
+        {
+          "id": "art_698ff1ecf1d0a7fb5b",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Defense and dual-use"
+          ],
+          "themes": [
+            "Patents"
+          ],
+          "companies": [
+            "Adisyn"
+          ],
+          "confidence": 0.62
+        },
+        {
+          "id": "art_def67918af5cb42b17",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — unspecified"
+          ],
+          "themes": [
+            "Fundraising"
+          ],
+          "companies": [
+            "Highlander Enterprise"
+          ],
+          "confidence": 0.58
+        },
+        {
+          "id": "art_07bee2cc0375ee25d9",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Consumer footwear"
+          ],
+          "themes": [],
+          "companies": [],
+          "confidence": 0.58
+        },
+        {
+          "id": "art_edaaadd0171d95b7ef",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [
+            "Graphene Manufacturing Group (GMG)"
+          ],
+          "confidence": 0.55
+        },
+        {
+          "id": "art_25a26268c66bbadd92",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [
+            "IndexBox"
+          ],
+          "confidence": 0.55
+        },
+        {
+          "id": "art_839b656d1ff8d33749",
+          "published_at": "2026-09-09",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Corporate market update"
+          ],
+          "themes": [],
+          "companies": [
+            "Graphene Manufacturing Group (GMG)"
+          ],
+          "confidence": 0.42
+        },
+        {
+          "id": "art_0bf5da85d971ed1837",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — Lubricants"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.99
+        },
+        {
+          "id": "art_b4a1b4f5d5975b6f65",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Graphene surface chemistry"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_6055f2aafe44ad18f9",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_8c59db7c4d93e8eed3",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_1523a5bb4106957742",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_7b078a956109fdf450",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Graphene–metal composites",
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_09a2271694da1fbc13",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_f64624aa61ae3bdc70",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_b1afa67ef765e8b6e5",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_c1d84058bb5be49536",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "2D semiconductors",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_bdcdf432756494fe3d",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_b3c8cfe4a2a33956fc",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — solar energy conversion and photocatalysis"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_5b233b63c39b02774c",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_4b20e92e45b8a777a3",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — Perovskite solar cells"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_21b2801a30662f22de",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Composites and coatings",
+            "Thermal management"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_8402edaa2e57900f80",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_fb3b92007f8168919e",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_cef0e85030a4c503ba",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_db4635c9f911c7f2b4",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Energy storage",
+            "Graphene–metal composites"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_a8338df63df103c231",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Biomedical"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_4582b93133afbda34c",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_42e3f268d13a2ac82a",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Phase-change materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_ffc2dcf11d5d6cb913",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_6d1e1a3e8c9650a75f",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_7affdff475e110b516",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications",
+            "Other — Photonics and metamaterials"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_f51c7bbcbeada183c2",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — photonics and quantum systems"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.95
+        },
+        {
+          "id": "art_1ce37c0dae272c231a",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Defense and dual-use",
+            "Flexible electronics and force sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.95
+        },
+        {
+          "id": "art_33bca6c176242c1b51",
+          "published_at": "2026-09-08",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — general materials development"
+          ],
+          "themes": [],
+          "companies": [
+            "First Graphene"
+          ],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_ccc6ce3f7d7c17a37b",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications",
+            "Other — Terahertz photonics"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_95e899fa0b484f32a1",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Boron nitride",
+          "verticals": [
+            "Thermal management"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_77a2da79dc28ec00c6",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_98943619c95d97e38b",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "2D semiconductors",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_cd414e381aaccbcb79",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.94
+        },
+        {
+          "id": "art_61bcaebc62bf916645",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Air/water filtration and separation",
+            "Other — carbon capture and utilization"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.93
+        },
+        {
+          "id": "art_1cadb464bbcfc7efc8",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.93
+        },
+        {
+          "id": "art_0f8eaacfeca54a6345",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — van der Waals interfaces and nanoelectromechanical systems"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.92
+        },
+        {
+          "id": "art_0514fa4d10b9aac2e2",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — 2D quantum materials"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.9
+        },
+        {
+          "id": "art_594f4ec810eac4740e",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.9
+        },
+        {
+          "id": "art_c81f6129c9403ecbb3",
+          "published_at": "2026-09-08",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Corporate finance"
+          ],
+          "themes": [
+            "Fundraising"
+          ],
+          "companies": [
+            "Argo Graphene Solutions"
+          ],
+          "confidence": 0.86
+        },
+        {
+          "id": "art_c3fbc8ac589cba6ee3",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Other — MXene multispectral devices"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.86
+        },
+        {
+          "id": "art_c3a0b73f2ee5a999af",
+          "published_at": "2026-09-08",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — general materials development"
+          ],
+          "themes": [
+            "Fundraising"
+          ],
+          "companies": [
+            "Argo Graphene Solutions"
+          ],
+          "confidence": 0.82
+        },
+        {
+          "id": "art_3cd72247d093653865",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — graphene fibres"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.7
+        },
+        {
+          "id": "art_c3dc5db54de475d454",
+          "published_at": "2026-09-08",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Sensors",
+            "Biomedical",
+            "Graphene–metal composites"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_1b5588f6e3864812f5",
+          "published_at": "2026-09-08",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Graphene materials research"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_29abb9ddeea11cea28",
+          "published_at": "2026-09-08",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — financial markets"
+          ],
+          "themes": [],
+          "companies": [
+            "HydroGraph Clean Power"
+          ],
+          "confidence": 0.62
+        },
+        {
+          "id": "art_40bb422c83584640fe",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_ea8d69066ed18dc2fc",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Flexible electronics and force sensors",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_e725436a0fca85318b",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Boron nitride",
+          "verticals": [
+            "Thermal management",
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_d30150d83035d751ce",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Boron nitride",
+          "verticals": [
+            "Biomedical",
+            "Composites and coatings"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_0b828c471e425c04b4",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Boron nitride",
+          "verticals": [
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_3eabaa03ae9e7bf2c4",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_5a21000035dbd30bed",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications",
+            "Other — Nanophotonics"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_f972b3ed4c11f3ca9e",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_80271869fda99ffb9f",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "2D semiconductors",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_af94cbe3e14fb0b194",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Biomedical"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_6bee463cf2b3a43f60",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_60a29ca87269d6a37a",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_f8c20b8337e5792cc9",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Air/water filtration and separation"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.98
+        },
+        {
+          "id": "art_20f49beba09304f607",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_e71e2344951ced65b1",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_2cc53de31d2e1e0d75",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.97
+        },
+        {
+          "id": "art_c3b5d4b6501aecada6",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_250d1c4237ed7ea9db",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.96
+        },
+        {
+          "id": "art_9734b837b7a905ee65",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Energy storage"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.95
+        },
+        {
+          "id": "art_d77becba8ce8330efe",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Defense and dual-use",
+            "Sensors"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.93
+        },
+        {
+          "id": "art_59641e5eadf069fbb3",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Defense and dual-use",
+            "Thermal management",
+            "Composites and coatings",
+            "Other — fusion energy materials"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.93
+        },
+        {
+          "id": "art_10926dbe39e0ac1c12",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — Photocatalysis"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.93
+        },
+        {
+          "id": "art_6fd601d6d2f04c78fb",
+          "published_at": "2026-09-07",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Corporate actions"
+          ],
+          "themes": [],
+          "companies": [
+            "First Graphene"
+          ],
+          "confidence": 0.92
+        },
+        {
+          "id": "art_51d4be533d053e4db9",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "MXenes",
+          "verticals": [
+            "Sensors",
+            "Other — forensic identification"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.92
+        },
+        {
+          "id": "art_cf4d8c9a3743b2c5c2",
+          "published_at": "2026-09-07",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Corporate actions"
+          ],
+          "themes": [
+            "Fundraising"
+          ],
+          "companies": [
+            "First Graphene"
+          ],
+          "confidence": 0.9
+        },
+        {
+          "id": "art_79b20aafa3083690bd",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Boron nitride",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.9
+        },
+        {
+          "id": "art_8de5468c9c48e93770",
+          "published_at": "2026-09-07",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Thermal management"
+          ],
+          "themes": [
+            "Fundraising",
+            "Partnerships"
+          ],
+          "companies": [
+            "SHT (Smart High Tech)",
+            "Henkel Ventures"
+          ],
+          "confidence": 0.86
+        },
+        {
+          "id": "art_d9c1f0e62084f3189a",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "2D semiconductors",
+          "verticals": [
+            "Thermal management",
+            "Semiconductor applications",
+            "Other — Solar energy conversion"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.82
+        },
+        {
+          "id": "art_75cef364ebb493a142",
+          "published_at": "2026-09-07",
+          "article_type": "Industry news",
+          "material_type": "non-graphene",
+          "material_family": "2D semiconductors",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.78
+        },
+        {
+          "id": "art_a789ef544a8d4455e7",
+          "published_at": "2026-09-07",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Thermal management"
+          ],
+          "themes": [
+            "Fundraising"
+          ],
+          "companies": [
+            "SHT (Smart High Tech)",
+            "Henkel"
+          ],
+          "confidence": 0.72
+        },
+        {
+          "id": "art_adab9f62fc9e4973b9",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Other — spectroscopy and materials characterization"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.72
+        },
+        {
+          "id": "art_93b8250a6deacc7632",
+          "published_at": "2026-09-07",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Corporate developments"
+          ],
+          "themes": [],
+          "companies": [
+            "Adisyn"
+          ],
+          "confidence": 0.7
+        },
+        {
+          "id": "art_f8621f19fd9fbf0b49",
+          "published_at": "2026-09-07",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Corporate finance"
+          ],
+          "themes": [],
+          "companies": [
+            "First Graphene"
+          ],
+          "confidence": 0.7
+        },
+        {
+          "id": "art_1db3830e3b740fc3dd",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.7
+        },
+        {
+          "id": "art_6204920ef992c40230",
+          "published_at": "2026-09-07",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — Graphene production"
+          ],
+          "themes": [
+            "Facilities"
+          ],
+          "companies": [
+            "Argo Graphene Solutions"
+          ],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_7c2751cf388f481bd6",
+          "published_at": "2026-09-07",
+          "article_type": "Academic research",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Other — fundamental graphene physics"
+          ],
+          "themes": [
+            "Research"
+          ],
+          "companies": [],
+          "confidence": 0.68
+        },
+        {
+          "id": "art_683e6a204737684094",
+          "published_at": "2026-09-07",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Semiconductor applications"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "Adisyn"
+          ],
+          "confidence": 0.63
+        },
+        {
+          "id": "art_dfc6be2efd831e551f",
+          "published_at": "2026-09-07",
+          "article_type": "Industry news",
+          "material_type": "graphene",
+          "material_family": "Graphene",
+          "verticals": [
+            "Thermal management",
+            "Other — Consumer appliances"
+          ],
+          "themes": [
+            "Commercialization"
+          ],
+          "companies": [
+            "Midea"
+          ],
+          "confidence": 0.62
+        },
+        {
+          "id": "art_171ee10752c851636c",
+          "published_at": "2026-09-07",
+          "article_type": "Industry news",
+          "material_type": "non-graphene",
+          "material_family": "Other competing materials",
+          "verticals": [
+            "Composites and coatings"
+          ],
+          "themes": [],
+          "companies": [
+            "JEC"
+          ],
+          "confidence": 0.55
         }
       ]
     }
